@@ -17,7 +17,7 @@ Porcelanato Brera Cimento Acetinado 90x90 Caixa 1,63 m²
 R$ 88,99
 https://www.sodimac.com.br/sodimac-br/product/866411/porcelanato-brera-cimento-acetinado-90x90-caixa-163-m/866411/
 Porcelanato Munari Branco Acetinado 90x90cm Caixa 1,63m² Branco
-R$ 106,99
+R$ 131,90
 https://www.sodimac.com.br/sodimac-br/product/739688/porcelanato-munari-branco-acetinado-90x90cm-caixa-163m-branco/739688/
 Porcelanato Place Polido 120X120cm Caixa 1,44 Eliane
 R$ 199,90
@@ -38,7 +38,7 @@ Porcelanato Blend Plus Cinza Externo 60x60 Cx1,44 m2
 R$ 76,90
 https://www.sodimac.com.br/sodimac-br/product/863650/porcelanato-blend-plus-cinza-externo-60x60-cx144-m2/863650/
 Porcelanato Polido Mont Blanc 90x90cm Branco
-R$ 124,90
+R$ 129,90
 https://www.sodimac.com.br/sodimac-br/product/762131/porcelanato-polido-mont-blanc-90x90cm-branco/762131/
 Porcelanato Flat Acetinado 60x120cm Eliane
 R$ 98,90
@@ -100,6 +100,9 @@ https://www.sodimac.com.br/sodimac-br/product/877923/porcelanato-atena-bege-60x6
 Porcelanato Esmaltado Munari Cimento Acetinado 90x90cm Caixa 1,63m² Cinza
 R$ 94,99
 https://www.sodimac.com.br/sodimac-br/product/646037/porcelanato-esmaltado-munari-cimento-acetinado-90x90cm-caixa-163m-cinza/646037/
+Porcelanato Munari Branco Pólido
+R$ 328,90
+https://www.sodimac.com.br/sodimac-br/product/1033376/porcelanato-munari-branco-polido/1033376/
 Porcelanato Polido Micron Coral 60x60 Caixa 1,44
 R$ 321,90
 https://www.sodimac.com.br/sodimac-br/product/1039146/porcelanato-polido-micron-coral-60x60-caixa-144/1039146/
@@ -163,24 +166,6 @@ https://www.sodimac.com.br/sodimac-br/product/1039047/porcelanato-polido-fossile
 Porcelanato Externo Munari Cimento 60x60 Caixa 1,44
 R$ 98,90
 https://www.sodimac.com.br/sodimac-br/product/1039174/porcelanato-externo-munari-cimento-60x60-caixa-144/1039174/
-Porcelanato Acetinado Munari Concreto 60x120 Caixa 1,44
-R$ 155,90
-https://www.sodimac.com.br/sodimac-br/product/1039072/porcelanato-acetinado-munari-concreto-60x120-caixa-144/1039072/
-Porcelanato Natural Panna Plus 60x60 Caixa 1,44
-R$ 140,90
-https://www.sodimac.com.br/sodimac-br/product/1039181/porcelanato-natural-panna-plus-60x60-caixa-144/1039181/
-Porcelanato Acetinado Placetinadoe 60x60 Caixa 1,44
-R$ 93,90
-https://www.sodimac.com.br/sodimac-br/product/1039182/porcelanato-acetinado-placetinadoe-60x60-caixa-144/1039182/
-Porcelanato Polido Fossile 60x120 Caixa 1,44
-R$ 227,90
-https://www.sodimac.com.br/sodimac-br/product/1039047/porcelanato-polido-fossile-60x120-caixa-144/1039047/
-Porcelanato Externo Munari Cimento 60x60 Caixa 1,44
-R$ 98,90
-https://www.sodimac.com.br/sodimac-br/product/1039174/porcelanato-externo-munari-cimento-60x60-caixa-144/1039174/
-Porcelanato Acetinado Munari Concreto 60x120 Caixa 1,44
-R$ 155,90
-https://www.sodimac.com.br/sodimac-br/product/1039072/porcelanato-acetinado-munari-concreto-60x120-caixa-144/1039072/
 Porcelanato Acetinado Caliza Frost 60x60 Caixa 1,44
 R$ 104,90
 https://www.sodimac.com.br/sodimac-br/product/1039101/porcelanato-acetinado-caliza-frost-60x60-caixa-144/1039101/
@@ -250,678 +235,30 @@ https://www.sodimac.com.br/sodimac-br/product/1039123/porcelanato-externo-manila
 Porcelanato Natural Materia Terra 60x120 Caixa 1,44
 R$ 262,90
 https://www.sodimac.com.br/sodimac-br/product/1039068/porcelanato-natural-materia-terra-60x120-caixa-144/1039068/
+Porcelanato Acetinado Manila Cinza 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039120/porcelanato-acetinado-manila-cinza-60x60-caixa-144/1039120/
+Porcelanato Acetinado Manila Marfim 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039122/porcelanato-acetinado-manila-marfim-60x60-caixa-144/1039122/
+Porcelanato Externo Caliza Frost 60x120 Caixa 1,44
+R$ 171,90
+https://www.sodimac.com.br/sodimac-br/product/1039041/porcelanato-externo-caliza-frost-60x120-caixa-144/1039041/
+Porcelanato Polido Cimento Granulos 80x80 Caixa 1,92
+R$ 189,90
+https://www.sodimac.com.br/sodimac-br/product/1039186/porcelanato-polido-cimento-granulos-80x80-caixa-192/1039186/
+Porcelanato Externo Brera Cimento 60x60 Caixa 1,44
+R$ 97,90
+https://www.sodimac.com.br/sodimac-br/product/1039098/porcelanato-externo-brera-cimento-60x60-caixa-144/1039098/
+Porcelanato Externo Brera Cimento 60x60 Caixa 1,44
+R$ 97,90
+https://www.sodimac.com.br/sodimac-br/product/1039098/porcelanato-externo-brera-cimento-60x60-caixa-144/1039098/
 Porcelanato Externo Micron Preto 60x60 Caixa 1,44
 R$ 249,90
 https://www.sodimac.com.br/sodimac-br/product/1039151/porcelanato-externo-micron-preto-60x60-caixa-144/1039151/
 Porcelanato Natural Stelar Blacetinadok 60x120 Caixa 1,44
 R$ 247,90
 https://www.sodimac.com.br/sodimac-br/product/1039088/porcelanato-natural-stelar-blacetinadok-60x120-caixa-144/1039088/
-Porcelanato Polido Micron Bege 60x60 Caixa 1,44
-R$ 241,90
-https://www.sodimac.com.br/sodimac-br/product/1039137/porcelanato-polido-micron-bege-60x60-caixa-144/1039137/
-Porcelanato Acetinado Dolmen Cinza Acetinado 60x120 Caixa 1,44
-R$ 164,90
-https://www.sodimac.com.br/sodimac-br/product/1039045/porcelanato-acetinado-dolmen-cinza-acetinado-60x120-caixa-144/1039045/
-Porcelanato Acetinado Khali Marfim 60x120 Caixa 1,44
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1039053/porcelanato-acetinado-khali-marfim-60x120-caixa-144/1039053/
-Porcelanato ra Micron Bege 60x60 Caixa 1,44
-R$ 206,90
-https://www.sodimac.com.br/sodimac-br/product/1039138/porcelanato-ra-micron-bege-60x60-caixa-144/1039138/
-Porcelanato ra Micron Coral 60x60 Caixa 1,44
-R$ 282,90
-https://www.sodimac.com.br/sodimac-br/product/1039147/porcelanato-ra-micron-coral-60x60-caixa-144/1039147/
-Porcelanato Polido Micron Cosmic 80x80 Caixa 1,92
-R$ 308,90
-https://www.sodimac.com.br/sodimac-br/product/1039210/porcelanato-polido-micron-cosmic-80x80-caixa-192/1039210/
-Porcelanato Externo Micron Bege 80x80 Caixa 1,92
-R$ 183,90
-https://www.sodimac.com.br/sodimac-br/product/1039198/porcelanato-externo-micron-bege-80x80-caixa-192/1039198/
-Porcelanato Externo Micron Cinza 80x80 Caixa 1,92
-R$ 185,90
-https://www.sodimac.com.br/sodimac-br/product/1039203/porcelanato-externo-micron-cinza-80x80-caixa-192/1039203/
-Porcelanato Polido Materia Titanio 60x60 Caixa 1,44
-R$ 217,90
-https://www.sodimac.com.br/sodimac-br/product/1039135/porcelanato-polido-materia-titanio-60x60-caixa-144/1039135/
-Porcelanato Externo Micron Branco 80x80 Caixa 1,92
-R$ 260,90
-https://www.sodimac.com.br/sodimac-br/product/1039201/porcelanato-externo-micron-branco-80x80-caixa-192/1039201/
-Porcelanato Polido Micron Cinza 60x60 Caixa 1,44
-R$ 256,90
-https://www.sodimac.com.br/sodimac-br/product/1039143/porcelanato-polido-micron-cinza-60x60-caixa-144/1039143/
-Porcelanato Natural Minimum Areia 60x60 Caixa 1,44
-R$ 159,90
-https://www.sodimac.com.br/sodimac-br/product/1039161/porcelanato-natural-minimum-areia-60x60-caixa-144/1039161/
-Porcelanato Polido Materia Calcario 80x80 Caixa 1,92
-R$ 260,90
-https://www.sodimac.com.br/sodimac-br/product/1039188/porcelanato-polido-materia-calcario-80x80-caixa-192/1039188/
-Porcelanato Externo Minimum Areia 60x60 Caixa 1,44
-R$ 158,90
-https://www.sodimac.com.br/sodimac-br/product/1039160/porcelanato-externo-minimum-areia-60x60-caixa-144/1039160/
-Porcelanato Natural Materia Grafite 60x60 Caixa 1,44
-R$ 163,90
-https://www.sodimac.com.br/sodimac-br/product/1039130/porcelanato-natural-materia-grafite-60x60-caixa-144/1039130/
-Porcelanato Acetinado Caliza Off White 60x120 Caixa 1,44
-R$ 171,90
-https://www.sodimac.com.br/sodimac-br/product/1039044/porcelanato-acetinado-caliza-off-white-60x120-caixa-144/1039044/
-Porcelanato Polido Flat 60x120 Caixa 1,44
-R$ 216,90
-https://www.sodimac.com.br/sodimac-br/product/1039046/porcelanato-polido-flat-60x120-caixa-144/1039046/
-Porcelanato Externo Micron Bg No-slip 60x60 Caixa 1,44
-R$ 215,90
-https://www.sodimac.com.br/sodimac-br/product/1039136/porcelanato-externo-micron-bg-no-slip-60x60-caixa-144/1039136/
-Porcelanato ra Micron Branco 60x60 Caixa 1,44
-R$ 256,90
-https://www.sodimac.com.br/sodimac-br/product/1039141/porcelanato-ra-micron-branco-60x60-caixa-144/1039141/
-Porcelanato Natural Materia Petroleo 60x120 Caixa 1,44
-R$ 238,90
-https://www.sodimac.com.br/sodimac-br/product/1039066/porcelanato-natural-materia-petroleo-60x120-caixa-144/1039066/
-Porcelanato Polido Micron Verde 60x60 Caixa 1,44
-R$ 368,90
-https://www.sodimac.com.br/sodimac-br/product/1039155/porcelanato-polido-micron-verde-60x60-caixa-144/1039155/
-Porcelanato Natural Micron Coral 80x80 Caixa 1,92
-R$ 246,90
-https://www.sodimac.com.br/sodimac-br/product/1039205/porcelanato-natural-micron-coral-80x80-caixa-192/1039205/
-Porcelanato Externo Caliza Frost 60x60 Caixa 1,44
-R$ 104,90
-https://www.sodimac.com.br/sodimac-br/product/1039102/porcelanato-externo-caliza-frost-60x60-caixa-144/1039102/
-Porcelanato Externo Micron Zinco 60x60 Caixa 1,44
-R$ 223,90
-https://www.sodimac.com.br/sodimac-br/product/1039157/porcelanato-externo-micron-zinco-60x60-caixa-144/1039157/
-Porcelanato Acetinado Munari Branco 60x60 Caixa 1,44
-R$ 92,90
-https://www.sodimac.com.br/sodimac-br/product/1039172/porcelanato-acetinado-munari-branco-60x60-caixa-144/1039172/
-Porcelanato Polido Cimento Granulos 60x60 Caixa 1,44
-R$ 165,90
-https://www.sodimac.com.br/sodimac-br/product/1039107/porcelanato-polido-cimento-granulos-60x60-caixa-144/1039107/
-Porcelanato Polido Micron Verde 60x60 Caixa 1,44
-R$ 368,90
-https://www.sodimac.com.br/sodimac-br/product/1039155/porcelanato-polido-micron-verde-60x60-caixa-144/1039155/
-Porcelanato Natural Micron Coral 80x80 Caixa 1,92
-R$ 246,90
-https://www.sodimac.com.br/sodimac-br/product/1039205/porcelanato-natural-micron-coral-80x80-caixa-192/1039205/
-Porcelanato Externo Caliza Frost 60x60 Caixa 1,44
-R$ 104,90
-https://www.sodimac.com.br/sodimac-br/product/1039102/porcelanato-externo-caliza-frost-60x60-caixa-144/1039102/
-Porcelanato Externo Micron Zinco 60x60 Caixa 1,44
-R$ 223,90
-https://www.sodimac.com.br/sodimac-br/product/1039157/porcelanato-externo-micron-zinco-60x60-caixa-144/1039157/
-Porcelanato Acetinado Munari Branco 60x60 Caixa 1,44
-R$ 92,90
-https://www.sodimac.com.br/sodimac-br/product/1039172/porcelanato-acetinado-munari-branco-60x60-caixa-144/1039172/
-Porcelanato Polido Cimento Granulos 60x60 Caixa 1,44
-R$ 165,90
-https://www.sodimac.com.br/sodimac-br/product/1039107/porcelanato-polido-cimento-granulos-60x60-caixa-144/1039107/
-Porcelanato Natural Materia Grafite 60x120 Caixa 1,44
-R$ 199,90
-https://www.sodimac.com.br/sodimac-br/product/1039064/porcelanato-natural-materia-grafite-60x120-caixa-144/1039064/
-Porcelanato Acetinado Khali Greige 60x60 Caixa 1,44
-R$ 105,90
-https://www.sodimac.com.br/sodimac-br/product/1039112/porcelanato-acetinado-khali-greige-60x60-caixa-144/1039112/
-Porcelanato Polido Materia Grafite 60x120 Caixa 1,44
-R$ 223,90
-https://www.sodimac.com.br/sodimac-br/product/1039065/porcelanato-polido-materia-grafite-60x120-caixa-144/1039065/
-Porcelanato Externo Caliza Off White 60x60 Caixa 1,44
-R$ 104,90
-https://www.sodimac.com.br/sodimac-br/product/1039106/porcelanato-externo-caliza-off-white-60x60-caixa-144/1039106/
-Porcelanato Acetinado Onix Cristallo 60x120 Caixa 1,44
-R$ 150,90
-https://www.sodimac.com.br/sodimac-br/product/1039073/porcelanato-acetinado-onix-cristallo-60x120-caixa-144/1039073/
-Porcelanato Polido Micron Preto 80x80 Caixa 1,92
-R$ 258,90
-https://www.sodimac.com.br/sodimac-br/product/1039213/porcelanato-polido-micron-preto-80x80-caixa-192/1039213/
-Porcelanato Polido Materia Terra 60x120 Caixa 1,44
-R$ 286,90
-https://www.sodimac.com.br/sodimac-br/product/1039069/porcelanato-polido-materia-terra-60x120-caixa-144/1039069/
-Porcelanato Natural Materia Petroleo 60x60 Caixa 1,44
-R$ 188,90
-https://www.sodimac.com.br/sodimac-br/product/1039132/porcelanato-natural-materia-petroleo-60x60-caixa-144/1039132/
-Porcelanato Polido Micron Coral 80x80 Caixa 1,92
-R$ 280,90
-https://www.sodimac.com.br/sodimac-br/product/1039207/porcelanato-polido-micron-coral-80x80-caixa-192/1039207/
-Porcelanato Polido Minimum Grafite 60x60 Caixa 1,44
-R$ 179,90
-https://www.sodimac.com.br/sodimac-br/product/1039168/porcelanato-polido-minimum-grafite-60x60-caixa-144/1039168/
-Porcelanato Externo Iron 60x120 Caixa 1,44
-R$ 179,90
-https://www.sodimac.com.br/sodimac-br/product/1039048/porcelanato-externo-iron-60x120-caixa-144/1039048/
-Porcelanato Polido Micron Branco 60x60 Caixa 1,44
-R$ 293,90
-https://www.sodimac.com.br/sodimac-br/product/1039140/porcelanato-polido-micron-branco-60x60-caixa-144/1039140/
-Porcelanato Acetinado Pulpis Crema 60x120 Caixa 1,44
-R$ 164,90
-https://www.sodimac.com.br/sodimac-br/product/1039080/porcelanato-acetinado-pulpis-crema-60x120-caixa-144/1039080/
-Porcelanato Acetinado Pulpis Brown 60x120 Caixa 1,44
-R$ 184,90
-https://www.sodimac.com.br/sodimac-br/product/1039078/porcelanato-acetinado-pulpis-brown-60x120-caixa-144/1039078/
-Porcelanato Acetinado Khali Marfim 60x60 Caixa 1,44
-R$ 105,90
-https://www.sodimac.com.br/sodimac-br/product/1039116/porcelanato-acetinado-khali-marfim-60x60-caixa-144/1039116/
-Porcelanato Polido Onix Preto 60x120 Caixa 1,44
-R$ 227,90
-https://www.sodimac.com.br/sodimac-br/product/1039076/porcelanato-polido-onix-preto-60x120-caixa-144/1039076/
-Porcelanato Externo Minimum Nude 60x60 Caixa 1,44
-R$ 192,90
-https://www.sodimac.com.br/sodimac-br/product/1039169/porcelanato-externo-minimum-nude-60x60-caixa-144/1039169/
-Porcelanato Natural Minimum Grafite 60x60 Caixa 1,44
-R$ 163,90
-https://www.sodimac.com.br/sodimac-br/product/1039167/porcelanato-natural-minimum-grafite-60x60-caixa-144/1039167/
-Porcelanato Natural Materia Titanio 60x60 Caixa 1,44
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1039134/porcelanato-natural-materia-titanio-60x60-caixa-144/1039134/
-Porcelanato Polido Materia Petroleo 60x60 Caixa 1,44
-R$ 212,90
-https://www.sodimac.com.br/sodimac-br/product/1039133/porcelanato-polido-materia-petroleo-60x60-caixa-144/1039133/
-Porcelanato Externo Micron Coral 80x80 Caixa 1,92
-R$ 227,90
-https://www.sodimac.com.br/sodimac-br/product/1039206/porcelanato-externo-micron-coral-80x80-caixa-192/1039206/
-Porcelanato Acetinado Peroba 60x120 Caixa 1,44
-R$ 164,90
-https://www.sodimac.com.br/sodimac-br/product/1039077/porcelanato-acetinado-peroba-60x120-caixa-144/1039077/
-Porcelanato Polido Adhara Polido 80x80cm Caixa 1,92m² Bege
-R$ 119,90
-https://www.sodimac.com.br/sodimac-br/product/28780/porcelanato-polido-adhara-polido-80x80cm-caixa-192m-bege/28780/
-Porcelanato Capri Glacial Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033441/porcelanato-capri-glacial-mate/1033441/
-Porcelanato Bosco Mel Ma 19,7x120cm Eliane
-R$ 134,90
-https://www.sodimac.com.br/sodimac-br/product/888185/porcelanato-bosco-mel-ma-197x120cm-eliane/888185/
-Porcelanato Bianco Plus Polido Caixa 1,44m² 60x60cm Bege Eliane
-R$ 109,90
-https://www.sodimac.com.br/sodimac-br/product/28639/porcelanato-bianco-plus-polido-caixa-144m-60x60cm-bege-eliane/28639/
-Porcelanato Flat Externo 90x90cm Eliane
-R$ 142,90
-https://www.sodimac.com.br/sodimac-br/product/888181/porcelanato-flat-externo-90x90cm-eliane/888181/
-Porcelanato Bali Camel Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033512/porcelanato-bali-camel-mate/1033512/
-Porcelanato Khali Off White Acetinado
-R$ 224,90
-https://www.sodimac.com.br/sodimac-br/product/1033367/porcelanato-khali-off-white-acetinado/1033367/
-Porcelanato Khali Hex Plisse Off-White Mate
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033413/porcelanato-khali-hex-plisse-off-white-mate/1033413/
-Porcelanato Carvalho Marfim Mate
-R$ 174,90
-https://www.sodimac.com.br/sodimac-br/product/1033427/porcelanato-carvalho-marfim-mate/1033427/
-Porcelanato Orion Hex Plisse Brut Metalizado
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1033414/porcelanato-orion-hex-plisse-brut-metalizado/1033414/
-Porcelanato Khali Gris Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033453/porcelanato-khali-gris-mate/1033453/
-Porcelanato Khali Gris Acetinado
-R$ 260,90
-https://www.sodimac.com.br/sodimac-br/product/1033363/porcelanato-khali-gris-acetinado/1033363/
-Porcelanato Bali Greice Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033513/porcelanato-bali-greice-mate/1033513/
-Porcelanato Verde Musgo Onda Brilhante
-R$ 90,90
-https://www.sodimac.com.br/sodimac-br/product/1033464/porcelanato-verde-musgo-onda-brilhante/1033464/
-Porcelanato Carvalho Fume Mate
-R$ 183,90
-https://www.sodimac.com.br/sodimac-br/product/1033426/porcelanato-carvalho-fume-mate/1033426/
-Porcelanato Carvalho Camel Mate
-R$ 180,90
-https://www.sodimac.com.br/sodimac-br/product/1033425/porcelanato-carvalho-camel-mate/1033425/
-Porcelanato Guache Planos Gris Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033447/porcelanato-guache-planos-gris-mate/1033447/
-Porcelanato Manila Marfim Acetinado
-R$ 270,90
-https://www.sodimac.com.br/sodimac-br/product/1033371/porcelanato-manila-marfim-acetinado/1033371/
-Porcelanato Sobreiro Natural
-R$ 182,90
-https://www.sodimac.com.br/sodimac-br/product/1033432/porcelanato-sobreiro-natural/1033432/
-Porcelanato Bali Greice Acetinado
-R$ 188,90
-https://www.sodimac.com.br/sodimac-br/product/1033421/porcelanato-bali-greice-acetinado/1033421/
-Porcelanato Materia Petroleo Pólido
-R$ 240,90
-https://www.sodimac.com.br/sodimac-br/product/1033473/porcelanato-materia-petroleo-polido/1033473/
-Porcelanto Orion Hex Plisse Mauve Metalizado
-R$ 203,90
-https://www.sodimac.com.br/sodimac-br/product/1033416/porcelanto-orion-hex-plisse-mauve-metalizado/1033416/
-Porcelanato Capri Agave Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033439/porcelanato-capri-agave-mate/1033439/
-Porcelanato Khali Off White Acetinado
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033472/porcelanato-khali-off-white-acetinado/1033472/
-Porcelanato Khali Marfim Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033516/porcelanato-khali-marfim-mate/1033516/
-Porcelanato Khali Greige Acetinado
-R$ 260,90
-https://www.sodimac.com.br/sodimac-br/product/1033361/porcelanato-khali-greige-acetinado/1033361/
-Porcelanato Khali Gris Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033515/porcelanato-khali-gris-mate/1033515/
-Porcelanato Guache Planos Argila Acetinado
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033446/porcelanato-guache-planos-argila-acetinado/1033446/
-Porcelanato Blanc Acetinado
-R$ 184,90
-https://www.sodimac.com.br/sodimac-br/product/1033423/porcelanato-blanc-acetinado/1033423/
-Porcelanato Arqtec Go Azul Natural
-R$ 1.151,90
-https://www.sodimac.com.br/sodimac-br/product/1033466/porcelanato-arqtec-go-azul-natural/1033466/
-Porcelanato Khali Off White Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033517/porcelanato-khali-off-white-mate/1033517/
-Porcelanato Khali Gris Acetinado
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033470/porcelanato-khali-gris-acetinado/1033470/
-Porcelanato Blend Plus Grey Externo
-R$ 99,90
-https://www.sodimac.com.br/sodimac-br/product/1032191/porcelanato-blend-plus-grey-externo/1032191/
-Porcelanato Externo Gobi Shell 84x84 Caixa 1,41
-R$ 140,90
-https://www.sodimac.com.br/sodimac-br/product/1039242/porcelanato-externo-gobi-shell-84x84-caixa-141/1039242/
-Porcelanato Polido Minimum Grafite 80x80 Caixa 1,92
-R$ 202,90
-https://www.sodimac.com.br/sodimac-br/product/1039232/porcelanato-polido-minimum-grafite-80x80-caixa-192/1039232/
-Porcelanato Polido Minimum Areia 80x80 Caixa 1,92
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1039222/porcelanato-polido-minimum-areia-80x80-caixa-192/1039222/
-Porcelanato Polido Micron Verde 80x80 Caixa 1,92
-R$ 321,90
-https://www.sodimac.com.br/sodimac-br/product/1039216/porcelanato-polido-micron-verde-80x80-caixa-192/1039216/
-Porcelanato Externo State Cement 90x90 Caixa 1,62
-R$ 191,90
-https://www.sodimac.com.br/sodimac-br/product/1039292/porcelanato-externo-state-cement-90x90-caixa-162/1039292/
-Porcelanato Natural Stelar White 90x90 Caixa 1,62
-R$ 299,90
-https://www.sodimac.com.br/sodimac-br/product/1039295/porcelanato-natural-stelar-white-90x90-caixa-162/1039295/
-Porcelanato Polido Minimum Nude 80x80 Caixa 1,92
-R$ 246,90
-https://www.sodimac.com.br/sodimac-br/product/1039234/porcelanato-polido-minimum-nude-80x80-caixa-192/1039234/
-Porcelanato Externo Dolmen Grafite 90x90 Caixa 1,63
-R$ 155,90
-https://www.sodimac.com.br/sodimac-br/product/1039259/porcelanato-externo-dolmen-grafite-90x90-caixa-163/1039259/
-Porcelanato Externo Areia 84x84 Caixa 1,41
-R$ 135,90
-https://www.sodimac.com.br/sodimac-br/product/1039235/porcelanato-externo-areia-84x84-caixa-141/1039235/
-Porcelanato Externo Minimum Areia 80x80 Caixa 1,92
-R$ 168,90
-https://www.sodimac.com.br/sodimac-br/product/1039220/porcelanato-externo-minimum-areia-80x80-caixa-192/1039220/
-Porcelanato Externo Minimum Cimento 80x80 Caixa 1,92
-R$ 189,90
-https://www.sodimac.com.br/sodimac-br/product/1039224/porcelanato-externo-minimum-cimento-80x80-caixa-192/1039224/
-Porcelanato Externo Minimum Cimento 90x90 Caixa 1,62
-R$ 215,90
-https://www.sodimac.com.br/sodimac-br/product/1039279/porcelanato-externo-minimum-cimento-90x90-caixa-162/1039279/
-Porcelanato Natural Minimum Concreto 80x80 Caixa 1,92
-R$ 191,90
-https://www.sodimac.com.br/sodimac-br/product/1039228/porcelanato-natural-minimum-concreto-80x80-caixa-192/1039228/
-Porcelanato Acetinado Caliza Greige 90x90 Caixa 1,63
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1039253/porcelanato-acetinado-caliza-greige-90x90-caixa-163/1039253/
-Porcelanato Acetinado Khali Greige 90x90 Caixa 1,63
-R$ 176,90
-https://www.sodimac.com.br/sodimac-br/product/1039266/porcelanato-acetinado-khali-greige-90x90-caixa-163/1039266/
-Porcelanato Externo Caliza Frost 90x90 Caixa 1,63
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1039252/porcelanato-externo-caliza-frost-90x90-caixa-163/1039252/
-Porcelanato Externo Micron Zinco 80x80 Caixa 1,92
-R$ 185,90
-https://www.sodimac.com.br/sodimac-br/product/1039218/porcelanato-externo-micron-zinco-80x80-caixa-192/1039218/
-Porcelanato Polido Silex Preto 90x90 Caixa 1,62
-R$ 364,90
-https://www.sodimac.com.br/sodimac-br/product/1039290/porcelanato-polido-silex-preto-90x90-caixa-162/1039290/
-Porcelanato Acetinado Khali Off White 90x90 Caixa 1,63
-R$ 176,90
-https://www.sodimac.com.br/sodimac-br/product/1039272/porcelanato-acetinado-khali-off-white-90x90-caixa-163/1039272/
-Porcelanato Polido Minimum Concreto 80x80 Caixa 1,92
-R$ 208,90
-https://www.sodimac.com.br/sodimac-br/product/1039229/porcelanato-polido-minimum-concreto-80x80-caixa-192/1039229/
-Porcelanato Externo Brera Terra 90x90 Caixa 1,63
-R$ 171,90
-https://www.sodimac.com.br/sodimac-br/product/1039248/porcelanato-externo-brera-terra-90x90-caixa-163/1039248/
-Porcelanato Acetinado Caliza Cinza 90x90 Caixa 1,63
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1039249/porcelanato-acetinado-caliza-cinza-90x90-caixa-163/1039249/
-Porcelanato Natural Materia Calcario 90x90 Caixa 1,62
-R$ 284,90
-https://www.sodimac.com.br/sodimac-br/product/1039274/porcelanato-natural-materia-calcario-90x90-caixa-162/1039274/
-Porcelanato Externo Caliza Greige 60x60 Caixa 1,44
-R$ 104,90
-https://www.sodimac.com.br/sodimac-br/product/1039104/porcelanato-externo-caliza-greige-60x60-caixa-144/1039104/
-Porcelanato Polido Materia Petroleo 60x120 Caixa 1,44
-R$ 263,90
-https://www.sodimac.com.br/sodimac-br/product/1039067/porcelanato-polido-materia-petroleo-60x120-caixa-144/1039067/
-Porcelanato Bosco Camel Marrom 19x90cm Caixa 1,54m² Eliane
-R$ 89,90
-https://www.sodimac.com.br/sodimac-br/product/958576/porcelanato-bosco-camel-marrom-19x90cm-caixa-154m-eliane/958576/
-Porcelanato Acetinado Brera Terra 90x90 Caixa 1,63
-R$ 160,90
-https://www.sodimac.com.br/sodimac-br/product/1039247/porcelanato-acetinado-brera-terra-90x90-caixa-163/1039247/
-Porcelanato Polido Onix Cristal 90x90 Caixa 1,63
-R$ 174,90
-https://www.sodimac.com.br/sodimac-br/product/1039285/porcelanato-polido-onix-cristal-90x90-caixa-163/1039285/
-Porcelanato Externo Caliza Cinza 90x90 Caixa 1,63
-R$ 149,90
-https://www.sodimac.com.br/sodimac-br/product/1039250/porcelanato-externo-caliza-cinza-90x90-caixa-163/1039250/
-Porcelanato Polido Stelar Blacetinadok 90x90 Caixa 1,62
-R$ 330,90
-https://www.sodimac.com.br/sodimac-br/product/1039294/porcelanato-polido-stelar-blacetinadok-90x90-caixa-162/1039294/
-Porcelanato Externo Khali Marfim 90x90 Caixa 1,63
-R$ 176,90
-https://www.sodimac.com.br/sodimac-br/product/1039271/porcelanato-externo-khali-marfim-90x90-caixa-163/1039271/
-Porcelanato Natural Minimum Areia 90x90 Caixa 1,62
-R$ 205,90
-https://www.sodimac.com.br/sodimac-br/product/1039277/porcelanato-natural-minimum-areia-90x90-caixa-162/1039277/
-Porcelanato Externo Quartzo 84x84 Caixa 1,41
-R$ 136,90
-https://www.sodimac.com.br/sodimac-br/product/1039243/porcelanato-externo-quartzo-84x84-caixa-141/1039243/
-Porcelanato Polido Minimum Areia 90x90 Caixa 1,62
-R$ 232,90
-https://www.sodimac.com.br/sodimac-br/product/1039278/porcelanato-polido-minimum-areia-90x90-caixa-162/1039278/
-Revestimento Argos Gris Metalizado 30X90
-R$ 156,90
-https://www.sodimac.com.br/sodimac-br/product/1033991/revestimento-argos-gris-metalizado-30x90/1033991/
-Revestimento Galeria Preto Brilhante 10X10
-R$ 113,90
-https://www.sodimac.com.br/sodimac-br/product/1032612/revestimento-galeria-preto-brilhante-10x10/1032612/
-Revestimento Zeus Gris Metalizado 30X90
-R$ 156,90
-https://www.sodimac.com.br/sodimac-br/product/1033995/revestimento-zeus-gris-metalizado-30x90/1033995/
-Revestimento Galeria Branco Acetinado 10X10
-R$ 108,90
-https://www.sodimac.com.br/sodimac-br/product/1032608/revestimento-galeria-branco-acetinado-10x10/1032608/
-Revestimento Losango Branco Brilhante 32,5X59
-R$ 108,90
-https://www.sodimac.com.br/sodimac-br/product/1032693/revestimento-losango-branco-brilhante-325x59/1032693/
-Porcelanato Bernini Oro Pólido  60X120
-R$ 250,90
-https://www.sodimac.com.br/sodimac-br/product/1032705/porcelanato-bernini-oro-polido-60x120/1032705/
-Porcelanato Gobi Shell Acetinado 59X59
-R$ 128,90
-https://www.sodimac.com.br/sodimac-br/product/1032700/porcelanato-gobi-shell-acetinado-59x59/1032700/
-Porcelanato Atlantis Bianco Acetinado 59X59
-R$ 115,90
-https://www.sodimac.com.br/sodimac-br/product/1032695/porcelanato-atlantis-bianco-acetinado-59x59/1032695/
-Porcelanato Gobi Greice Acetinado 59X59
-R$ 128,90
-https://www.sodimac.com.br/sodimac-br/product/1032696/porcelanato-gobi-greice-acetinado-59x59/1032696/
-Revestimento Argos Coral Metalizado 30X90
-R$ 162,90
-https://www.sodimac.com.br/sodimac-br/product/1033989/revestimento-argos-coral-metalizado-30x90/1033989/
-Revestimento Galeria Branco Mesh Acetinado 10X10
-R$ 96,90
-https://www.sodimac.com.br/sodimac-br/product/1032610/revestimento-galeria-branco-mesh-acetinado-10x10/1032610/
-Revestimento Zeus Marfim 30X90
-R$ 156,90
-https://www.sodimac.com.br/sodimac-br/product/1033996/revestimento-zeus-marfim-30x90/1033996/
-Porcelanato Gobi Shell Externo 59X59
-R$ 126,90
-https://www.sodimac.com.br/sodimac-br/product/1032701/porcelanato-gobi-shell-externo-59x59/1032701/
-Revestimento Ardosia Black Mesh Mate 10X10
-R$ 145,90
-https://www.sodimac.com.br/sodimac-br/product/1032603/revestimento-ardosia-black-mesh-mate-10x10/1032603/
-Revestimento Neutral Agave Mesh Brilhante 10X10
-R$ 99,90
-https://www.sodimac.com.br/sodimac-br/product/1032621/revestimento-neutral-agave-mesh-brilhante-10x10/1032621/
-Revestimento Argos Cosmic Metalizado 30X90
-R$ 162,90
-https://www.sodimac.com.br/sodimac-br/product/1033990/revestimento-argos-cosmic-metalizado-30x90/1033990/
-Revestimento Argos Marfim Metalizado 30X90
-R$ 156,90
-https://www.sodimac.com.br/sodimac-br/product/1033992/revestimento-argos-marfim-metalizado-30x90/1033992/
-Porcelanato Gobi Greice Acetinado 60X60
-R$ 110,90
-https://www.sodimac.com.br/sodimac-br/product/1032708/porcelanato-gobi-greice-acetinado-60x60/1032708/
-Porcelanato Gobi Marfim Externo 59X59
-R$ 126,90
-https://www.sodimac.com.br/sodimac-br/product/1032699/porcelanato-gobi-marfim-externo-59x59/1032699/
-Revestimento Zeus Cosmic Metalizado 30X90
-R$ 162,90
-https://www.sodimac.com.br/sodimac-br/product/1033994/revestimento-zeus-cosmic-metalizado-30x90/1033994/
-Porcelanato Gobi Marfim Acetinado 59X59
-R$ 128,90
-https://www.sodimac.com.br/sodimac-br/product/1032698/porcelanato-gobi-marfim-acetinado-59x59/1032698/
-Revestimento Capri Agave Mesh Mate 10X10
-R$ 109,90
-https://www.sodimac.com.br/sodimac-br/product/1032604/revestimento-capri-agave-mesh-mate-10x10/1032604/
-Porcelanato Gobi Marfim Acetinado 60X60
-R$ 110,90
-https://www.sodimac.com.br/sodimac-br/product/1032710/porcelanato-gobi-marfim-acetinado-60x60/1032710/
-Porcelanato Gobi Shell Acetinado 60X60
-R$ 108,90
-https://www.sodimac.com.br/sodimac-br/product/1032712/porcelanato-gobi-shell-acetinado-60x60/1032712/
-Porcelanato Caliza Off White Externo 60X120
-R$ 178,90
-https://www.sodimac.com.br/sodimac-br/product/1032706/porcelanato-caliza-off-white-externo-60x120/1032706/
-Porcelanato Pedra Bahia Gelo Externo 59X59
-R$ 126,90
-https://www.sodimac.com.br/sodimac-br/product/1032702/porcelanato-pedra-bahia-gelo-externo-59x59/1032702/
-Porcelanato Gobi Greige Externo 59X59
-R$ 126,90
-https://www.sodimac.com.br/sodimac-br/product/1032697/porcelanato-gobi-greige-externo-59x59/1032697/
-Revestimento Argos Branco Metalizado 30X90
-R$ 177,90
-https://www.sodimac.com.br/sodimac-br/product/1033988/revestimento-argos-branco-metalizado-30x90/1033988/
-Revestimento Capri Glacial Mesh Mate 10X10
-R$ 146,90
-https://www.sodimac.com.br/sodimac-br/product/1032605/revestimento-capri-glacial-mesh-mate-10x10/1032605/
-Revestimento Capri Marine Mesh Mate 10X10
-R$ 148,90
-https://www.sodimac.com.br/sodimac-br/product/1032607/revestimento-capri-marine-mesh-mate-10x10/1032607/
-Revestimento Galeria Branco Brilhante 10X10
-R$ 106,90
-https://www.sodimac.com.br/sodimac-br/product/1032609/revestimento-galeria-branco-brilhante-10x10/1032609/
-Revestimento Losango Cinza Acetinado 32,5X59
-R$ 106,90
-https://www.sodimac.com.br/sodimac-br/product/1032694/revestimento-losango-cinza-acetinado-325x59/1032694/
-Porcelanato Gobi Greige Externo 60X60
-R$ 106,90
-https://www.sodimac.com.br/sodimac-br/product/1032709/porcelanato-gobi-greige-externo-60x60/1032709/
-Revestimento Capri Hijau Mesh Mate 10X10
-R$ 146,90
-https://www.sodimac.com.br/sodimac-br/product/1032606/revestimento-capri-hijau-mesh-mate-10x10/1032606/
-Revestimento Zeus Coral Metalizado 30X90
-R$ 162,90
-https://www.sodimac.com.br/sodimac-br/product/1033993/revestimento-zeus-coral-metalizado-30x90/1033993/
-Porcelanato Munari Cimento Externo 60X120
-R$ 153,90
-https://www.sodimac.com.br/sodimac-br/product/1032707/porcelanato-munari-cimento-externo-60x120/1032707/
-Porcelanato Safari Fume Mate 19X90
-R$ 134,90
-https://www.sodimac.com.br/sodimac-br/product/1032670/porcelanato-safari-fume-mate-19x90/1032670/
-Porcelanato Artico Alpe Acetinado 60X120
-R$ 161,90
-https://www.sodimac.com.br/sodimac-br/product/1032703/porcelanato-artico-alpe-acetinado-60x120/1032703/
-Porcelanato Khali Marfim Externo 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032667/porcelanato-khali-marfim-externo-19x90/1032667/
-Porcelanato Khali Gris Externo 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032665/porcelanato-khali-gris-externo-19x90/1032665/
-Porcelanato Externo Khali Off White 59x59 Caixa 1,39
-R$ 133,90
-https://www.sodimac.com.br/sodimac-br/product/1039016/porcelanato-externo-khali-off-white-59x59-caixa-139/1039016/
-Porcelanato Esmaltado Munari Concreto Acetinado 90x90cm Caixa 1,63m² Cinza
-R$ 129,90
-https://www.sodimac.com.br/sodimac-br/product/509440/porcelanato-esmaltado-munari-concreto-acetinado-90x90cm-caixa-163m-cinza/509440/
-Porcelanato Micron Cinza 80x80cm Eliane
-R$ 177,90
-https://www.sodimac.com.br/sodimac-br/product/889114/porcelanato-micron-cinza-80x80cm-eliane/889114/
-Porcelanato Polido Panna Plus PO 60x60cm Bege
-R$ 139,90
-https://www.sodimac.com.br/sodimac-br/product/28716/porcelanato-polido-panna-plus-po-60x60cm-bege/28716/
-Porcelanato Brera Cimento Ext 90x90
-R$ 124,90
-https://www.sodimac.com.br/sodimac-br/product/867686/porcelanato-brera-cimento-ext-90x90/867686/
-Porcelanato Onix Cristal Acetinado 60x120cm Eliane
-R$ 109,90
-https://www.sodimac.com.br/sodimac-br/product/888184/porcelanato-onix-cristal-acetinado-60x120cm-eliane/888184/
-Porcelanato Esmaltado Munari Concreto Acetinado 90x90cm Caixa 1,63m² Cinza
-R$ 129,90
-https://www.sodimac.com.br/sodimac-br/product/509440/porcelanato-esmaltado-munari-concreto-acetinado-90x90cm-caixa-163m-cinza/509440/
-Porcelanato Micron Cinza 80x80cm Eliane
-R$ 177,90
-https://www.sodimac.com.br/sodimac-br/product/889114/porcelanato-micron-cinza-80x80cm-eliane/889114/
-Porcelanato Polido Panna Plus PO 60x60cm Bege
-R$ 139,90
-https://www.sodimac.com.br/sodimac-br/product/28716/porcelanato-polido-panna-plus-po-60x60cm-bege/28716/
-Porcelanato Brera Cimento Ext 90x90
-R$ 124,90
-https://www.sodimac.com.br/sodimac-br/product/867686/porcelanato-brera-cimento-ext-90x90/867686/
-Porcelanato Polido Adhara Polido 80x80cm Caixa 1,92m² Bege
-R$ 119,90
-https://www.sodimac.com.br/sodimac-br/product/28780/porcelanato-polido-adhara-polido-80x80cm-caixa-192m-bege/28780/
-Porcelanato Bosco Mel Ma 19,7x120cm Eliane
-R$ 134,90
-https://www.sodimac.com.br/sodimac-br/product/888185/porcelanato-bosco-mel-ma-197x120cm-eliane/888185/
-Porcelanato Bosco Camel Marrom 19x90cm Caixa 1,54m² Eliane
-R$ 89,90
-https://www.sodimac.com.br/sodimac-br/product/958576/porcelanato-bosco-camel-marrom-19x90cm-caixa-154m-eliane/958576/
-Porcelanato Blend Plus Grey Externo
-R$ 99,90
-https://www.sodimac.com.br/sodimac-br/product/1032191/porcelanato-blend-plus-grey-externo/1032191/
-Porcelanato Externo Gobi Shell 84x84 Caixa 1,41
-R$ 140,90
-https://www.sodimac.com.br/sodimac-br/product/1039242/porcelanato-externo-gobi-shell-84x84-caixa-141/1039242/
-Porcelanato Polido Minimum Grafite 80x80 Caixa 1,92
-R$ 202,90
-https://www.sodimac.com.br/sodimac-br/product/1039232/porcelanato-polido-minimum-grafite-80x80-caixa-192/1039232/
-Porcelanato Polido Minimum Areia 80x80 Caixa 1,92
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1039222/porcelanato-polido-minimum-areia-80x80-caixa-192/1039222/
-Porcelanato Polido Micron Verde 80x80 Caixa 1,92
-R$ 321,90
-https://www.sodimac.com.br/sodimac-br/product/1039216/porcelanato-polido-micron-verde-80x80-caixa-192/1039216/
-Porcelanato Externo State Cement 90x90 Caixa 1,62
-R$ 191,90
-https://www.sodimac.com.br/sodimac-br/product/1039292/porcelanato-externo-state-cement-90x90-caixa-162/1039292/
-Porcelanato Natural Stelar White 90x90 Caixa 1,62
-R$ 299,90
-https://www.sodimac.com.br/sodimac-br/product/1039295/porcelanato-natural-stelar-white-90x90-caixa-162/1039295/
-Porcelanato Polido Minimum Nude 80x80 Caixa 1,92
-R$ 246,90
-https://www.sodimac.com.br/sodimac-br/product/1039234/porcelanato-polido-minimum-nude-80x80-caixa-192/1039234/
-Porcelanato Externo Dolmen Grafite 90x90 Caixa 1,63
-R$ 155,90
-https://www.sodimac.com.br/sodimac-br/product/1039259/porcelanato-externo-dolmen-grafite-90x90-caixa-163/1039259/
-Porcelanato Externo Areia 84x84 Caixa 1,41
-R$ 135,90
-https://www.sodimac.com.br/sodimac-br/product/1039235/porcelanato-externo-areia-84x84-caixa-141/1039235/
-Porcelanato Externo Minimum Areia 80x80 Caixa 1,92
-R$ 168,90
-https://www.sodimac.com.br/sodimac-br/product/1039220/porcelanato-externo-minimum-areia-80x80-caixa-192/1039220/
-Porcelanato Externo Minimum Cimento 80x80 Caixa 1,92
-R$ 189,90
-https://www.sodimac.com.br/sodimac-br/product/1039224/porcelanato-externo-minimum-cimento-80x80-caixa-192/1039224/
-Porcelanato Externo Minimum Cimento 90x90 Caixa 1,62
-R$ 215,90
-https://www.sodimac.com.br/sodimac-br/product/1039279/porcelanato-externo-minimum-cimento-90x90-caixa-162/1039279/
-Porcelanato Natural Minimum Concreto 80x80 Caixa 1,92
-R$ 191,90
-https://www.sodimac.com.br/sodimac-br/product/1039228/porcelanato-natural-minimum-concreto-80x80-caixa-192/1039228/
-Porcelanato Acetinado Caliza Greige 90x90 Caixa 1,63
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1039253/porcelanato-acetinado-caliza-greige-90x90-caixa-163/1039253/
-Porcelanato Acetinado Khali Greige 90x90 Caixa 1,63
-R$ 176,90
-https://www.sodimac.com.br/sodimac-br/product/1039266/porcelanato-acetinado-khali-greige-90x90-caixa-163/1039266/
-Porcelanato Externo Caliza Frost 90x90 Caixa 1,63
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1039252/porcelanato-externo-caliza-frost-90x90-caixa-163/1039252/
-Porcelanato Externo Micron Zinco 80x80 Caixa 1,92
-R$ 185,90
-https://www.sodimac.com.br/sodimac-br/product/1039218/porcelanato-externo-micron-zinco-80x80-caixa-192/1039218/
-Porcelanato Polido Silex Preto 90x90 Caixa 1,62
-R$ 364,90
-https://www.sodimac.com.br/sodimac-br/product/1039290/porcelanato-polido-silex-preto-90x90-caixa-162/1039290/
-Porcelanato Acetinado Khali Off White 90x90 Caixa 1,63
-R$ 176,90
-https://www.sodimac.com.br/sodimac-br/product/1039272/porcelanato-acetinado-khali-off-white-90x90-caixa-163/1039272/
-Porcelanato Orion Hex Plisse Rose Metalizado
-R$ 203,90
-https://www.sodimac.com.br/sodimac-br/product/1033418/porcelanato-orion-hex-plisse-rose-metalizado/1033418/
-Porcelanato Khali Marfim Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033516/porcelanato-khali-marfim-mate/1033516/
-Porcelanato Khali Greige Acetinado
-R$ 260,90
-https://www.sodimac.com.br/sodimac-br/product/1033361/porcelanato-khali-greige-acetinado/1033361/
-Porcelanato Guache Planos Argila Acetinado
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033446/porcelanato-guache-planos-argila-acetinado/1033446/
-Porcelanato Manila Cinza Acetinado
-R$ 267,90
-https://www.sodimac.com.br/sodimac-br/product/1033369/porcelanato-manila-cinza-acetinado/1033369/
-Porcelanato Khali Greige Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033451/porcelanato-khali-greige-mate/1033451/
-Porcelanato Khali Gris Acetinado
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033470/porcelanato-khali-gris-acetinado/1033470/
-Porcelanato Tanzania Canela Acetinado
-R$ 188,90
-https://www.sodimac.com.br/sodimac-br/product/1033433/porcelanato-tanzania-canela-acetinado/1033433/
-Porcelanato Capri Hijau Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033443/porcelanato-capri-hijau-mate/1033443/
-Porcelanato Jamari Acetinado
-R$ 208,90
-https://www.sodimac.com.br/sodimac-br/product/1033429/porcelanato-jamari-acetinado/1033429/
-Porcelanato Munari Marfim Acetinado
-R$ 249,90
-https://www.sodimac.com.br/sodimac-br/product/1033378/porcelanato-munari-marfim-acetinado/1033378/
-Porcelanato Khali Marfim Acetinado
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033471/porcelanato-khali-marfim-acetinado/1033471/
-Porcelanato Munari Cimento Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033460/porcelanato-munari-cimento-mate/1033460/
-Porcelanato Blend Plus Grey Externo
-R$ 99,90
-https://www.sodimac.com.br/sodimac-br/product/1032191/porcelanato-blend-plus-grey-externo/1032191/
-Porcelanato Externo Gobi Shell 84x84 Caixa 1,41
-R$ 140,90
-https://www.sodimac.com.br/sodimac-br/product/1039242/porcelanato-externo-gobi-shell-84x84-caixa-141/1039242/
-Porcelanato Polido Minimum Grafite 80x80 Caixa 1,92
-R$ 202,90
-https://www.sodimac.com.br/sodimac-br/product/1039232/porcelanato-polido-minimum-grafite-80x80-caixa-192/1039232/
-Porcelanato Polido Minimum Areia 80x80 Caixa 1,92
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1039222/porcelanato-polido-minimum-areia-80x80-caixa-192/1039222/
-Porcelanato Polido Micron Verde 80x80 Caixa 1,92
-R$ 321,90
-https://www.sodimac.com.br/sodimac-br/product/1039216/porcelanato-polido-micron-verde-80x80-caixa-192/1039216/
-Porcelanato Externo State Cement 90x90 Caixa 1,62
-R$ 191,90
-https://www.sodimac.com.br/sodimac-br/product/1039292/porcelanato-externo-state-cement-90x90-caixa-162/1039292/
-Porcelanato Natural Stelar White 90x90 Caixa 1,62
-R$ 299,90
-https://www.sodimac.com.br/sodimac-br/product/1039295/porcelanato-natural-stelar-white-90x90-caixa-162/1039295/
-Porcelanato Polido Minimum Nude 80x80 Caixa 1,92
-R$ 246,90
-https://www.sodimac.com.br/sodimac-br/product/1039234/porcelanato-polido-minimum-nude-80x80-caixa-192/1039234/
-Porcelanato Externo Dolmen Grafite 90x90 Caixa 1,63
-R$ 155,90
-https://www.sodimac.com.br/sodimac-br/product/1039259/porcelanato-externo-dolmen-grafite-90x90-caixa-163/1039259/
-Porcelanato Externo Areia 84x84 Caixa 1,41
-R$ 135,90
-https://www.sodimac.com.br/sodimac-br/product/1039235/porcelanato-externo-areia-84x84-caixa-141/1039235/
-Porcelanato Externo Minimum Areia 80x80 Caixa 1,92
-R$ 168,90
-https://www.sodimac.com.br/sodimac-br/product/1039220/porcelanato-externo-minimum-areia-80x80-caixa-192/1039220/
-Porcelanato Externo Minimum Cimento 80x80 Caixa 1,92
-R$ 189,90
-https://www.sodimac.com.br/sodimac-br/product/1039224/porcelanato-externo-minimum-cimento-80x80-caixa-192/1039224/
-Porcelanato Externo Minimum Cimento 90x90 Caixa 1,62
-R$ 215,90
-https://www.sodimac.com.br/sodimac-br/product/1039279/porcelanato-externo-minimum-cimento-90x90-caixa-162/1039279/
-Porcelanato Natural Minimum Concreto 80x80 Caixa 1,92
-R$ 191,90
-https://www.sodimac.com.br/sodimac-br/product/1039228/porcelanato-natural-minimum-concreto-80x80-caixa-192/1039228/
-Porcelanato Acetinado Caliza Greige 90x90 Caixa 1,63
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1039253/porcelanato-acetinado-caliza-greige-90x90-caixa-163/1039253/
 Porcelanato Polido Micron Bege 60x60 Caixa 1,44
 R$ 241,90
 https://www.sodimac.com.br/sodimac-br/product/1039137/porcelanato-polido-micron-bege-60x60-caixa-144/1039137/
@@ -1090,174 +427,165 @@ https://www.sodimac.com.br/sodimac-br/product/1039164/porcelanato-natural-minimu
 Porcelanato Acetinado Munari Marfim 60x60 Caixa 1,44
 R$ 100,90
 https://www.sodimac.com.br/sodimac-br/product/1039176/porcelanato-acetinado-munari-marfim-60x60-caixa-144/1039176/
-Porcelanato Solid Grey Acetinado 80X160
-R$ 345,90
-https://www.sodimac.com.br/sodimac-br/product/1029583/porcelanato-solid-grey-acetinado-80x160/1029583/
-Porcelanato Nero Marquina Pólido 80X160
-R$ 389,90
-https://www.sodimac.com.br/sodimac-br/product/1029582/porcelanato-nero-marquina-polido-80x160/1029582/
-Porcelanato Marmo Brown Pólido 120X240
-R$ 549,90
-https://www.sodimac.com.br/sodimac-br/product/1029572/porcelanato-marmo-brown-polido-120x240/1029572/
-Porcelanato Marmo Branco Pólido 120X240
-R$ 494,90
-https://www.sodimac.com.br/sodimac-br/product/1029571/porcelanato-marmo-branco-polido-120x240/1029571/
-Porcelanato Valenciano Marrom Pólido
-R$ 386,90
-https://www.sodimac.com.br/sodimac-br/product/1033384/porcelanato-valenciano-marrom-polido/1033384/
-Porcelanato Guache Gris Mate
-R$ 277,90
-https://www.sodimac.com.br/sodimac-br/product/1033358/porcelanato-guache-gris-mate/1033358/
-Porcelanato Guache Argila Mate
-R$ 277,90
-https://www.sodimac.com.br/sodimac-br/product/1033354/porcelanato-guache-argila-mate/1033354/
-Porcelanato Khali Hex Plisse Off-White Mate
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033413/porcelanato-khali-hex-plisse-off-white-mate/1033413/
-Porcelanato Carvalho Marfim Mate
-R$ 174,90
-https://www.sodimac.com.br/sodimac-br/product/1033427/porcelanato-carvalho-marfim-mate/1033427/
-Porcelanato Orion Hex Plisse Brut Metalizado
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1033414/porcelanato-orion-hex-plisse-brut-metalizado/1033414/
-Porcelanato Khali Gris Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033453/porcelanato-khali-gris-mate/1033453/
-Porcelanato Orion Hex Plisse Rose Metalizado
-R$ 203,90
-https://www.sodimac.com.br/sodimac-br/product/1033418/porcelanato-orion-hex-plisse-rose-metalizado/1033418/
-Porcelanato Guache Terracota Mate
-R$ 277,90
-https://www.sodimac.com.br/sodimac-br/product/1033360/porcelanato-guache-terracota-mate/1033360/
-Porcelanato Munari Marfim Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033462/porcelanato-munari-marfim-mate/1033462/
-Porcelanato Orion Hex Plisse Cosmic Metalizado
-R$ 203,90
-https://www.sodimac.com.br/sodimac-br/product/1033415/porcelanato-orion-hex-plisse-cosmic-metalizado/1033415/
-Porcelanato Khali Gris Acetinado
-R$ 260,90
-https://www.sodimac.com.br/sodimac-br/product/1033363/porcelanato-khali-gris-acetinado/1033363/
-Porcelanato Bali Greice Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033513/porcelanato-bali-greice-mate/1033513/
-Porcelanato Verde Musgo Onda Brilhante
-R$ 90,90
-https://www.sodimac.com.br/sodimac-br/product/1033464/porcelanato-verde-musgo-onda-brilhante/1033464/
-Porcelanato Carvalho Fume Mate
-R$ 183,90
-https://www.sodimac.com.br/sodimac-br/product/1033426/porcelanato-carvalho-fume-mate/1033426/
-Porcelanato Carvalho Camel Mate
-R$ 180,90
-https://www.sodimac.com.br/sodimac-br/product/1033425/porcelanato-carvalho-camel-mate/1033425/
-Porcelanato Guache Planos Gris Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033447/porcelanato-guache-planos-gris-mate/1033447/
-Porcelanato Manila Marfim Acetinado
-R$ 270,90
-https://www.sodimac.com.br/sodimac-br/product/1033371/porcelanato-manila-marfim-acetinado/1033371/
-Porcelanato Sobreiro Natural
-R$ 182,90
-https://www.sodimac.com.br/sodimac-br/product/1033432/porcelanato-sobreiro-natural/1033432/
-Porcelanato Bali Greice Acetinado
-R$ 188,90
-https://www.sodimac.com.br/sodimac-br/product/1033421/porcelanato-bali-greice-acetinado/1033421/
-Porcelanato Materia Petroleo Pólido
-R$ 240,90
-https://www.sodimac.com.br/sodimac-br/product/1033473/porcelanato-materia-petroleo-polido/1033473/
-Porcelanto Orion Hex Plisse Mauve Metalizado
-R$ 203,90
-https://www.sodimac.com.br/sodimac-br/product/1033416/porcelanto-orion-hex-plisse-mauve-metalizado/1033416/
-Porcelanato Capri Agave Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033439/porcelanato-capri-agave-mate/1033439/
-Porcelanato Khali Gris Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033515/porcelanato-khali-gris-mate/1033515/
-Porcelanato Guache Planos Argila Acetinado
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033446/porcelanato-guache-planos-argila-acetinado/1033446/
-Porcelanato Khali Greige Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033451/porcelanato-khali-greige-mate/1033451/
-Porcelanato Munari Concreto Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033461/porcelanato-munari-concreto-mate/1033461/
-Porcelanato Khali Gris Acetinado
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033470/porcelanato-khali-gris-acetinado/1033470/
-Porcelanato Vondel Marfim Natural
-R$ 311,90
-https://www.sodimac.com.br/sodimac-br/product/1033436/porcelanato-vondel-marfim-natural/1033436/
-Porcelanato Tanzania Canela Acetinado
-R$ 188,90
-https://www.sodimac.com.br/sodimac-br/product/1033433/porcelanato-tanzania-canela-acetinado/1033433/
-Porcelanato Capri Hijau Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033443/porcelanato-capri-hijau-mate/1033443/
-Porcelanato Khali Hex Plisse Gris Mate
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033411/porcelanato-khali-hex-plisse-gris-mate/1033411/
-Porcelanato Khali Marfim Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033456/porcelanato-khali-marfim-mate/1033456/
-Porcelanato Khali Marfim Acetinado
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033471/porcelanato-khali-marfim-acetinado/1033471/
-Porcelanato Minimum Carbono Pólido
-R$ 216,90
-https://www.sodimac.com.br/sodimac-br/product/1033474/porcelanato-minimum-carbono-polido/1033474/
-Porcelanato Khali Hex Plisse Greige Mate
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033410/porcelanato-khali-hex-plisse-greige-mate/1033410/
-Porcelanato Capri Marine Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033445/porcelanato-capri-marine-mate/1033445/
-Porcelanato Orion Hex Plisse Verbena Metalizado
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1033419/porcelanato-orion-hex-plisse-verbena-metalizado/1033419/
-Porcelanato Verde Agua Onda Brilhante
-R$ 85,90
-https://www.sodimac.com.br/sodimac-br/product/1033463/porcelanato-verde-agua-onda-brilhante/1033463/
-Porcelanato Khali Off White Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033459/porcelanato-khali-off-white-mate/1033459/
-Porcelanato Park Camel Natural
-R$ 243,90
-https://www.sodimac.com.br/sodimac-br/product/1033431/porcelanato-park-camel-natural/1033431/
-Porcelanto Munari Cimento Pólido
-R$ 348,90
-https://www.sodimac.com.br/sodimac-br/product/1033377/porcelanto-munari-cimento-polido/1033377/
-Porcelanato Arqtec Go Amarelo Natural
-R$ 1.235,90
-https://www.sodimac.com.br/sodimac-br/product/1033465/porcelanato-arqtec-go-amarelo-natural/1033465/
-Porcelanato Khali Hex Plisse Marfim Mate
-R$ 172,90
-https://www.sodimac.com.br/sodimac-br/product/1033412/porcelanato-khali-hex-plisse-marfim-mate/1033412/
-Porcelanato Bosco Camel Mate
-R$ 176,90
-https://www.sodimac.com.br/sodimac-br/product/1033424/porcelanato-bosco-camel-mate/1033424/
-Porcelanato Arqtec Stop Amarelo Natural
-R$ 1.201,90
-https://www.sodimac.com.br/sodimac-br/product/1033467/porcelanato-arqtec-stop-amarelo-natural/1033467/
-Porcelanato Munari Cimento Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033460/porcelanato-munari-cimento-mate/1033460/
-Porcelanato Polido Minimum Cimento 80x80 Caixa 1,92
-R$ 205,90
-https://www.sodimac.com.br/sodimac-br/product/1039226/porcelanato-polido-minimum-cimento-80x80-caixa-192/1039226/
-Porcelanato Acetinado Brera Terra 90x90 Caixa 1,63
-R$ 160,90
-https://www.sodimac.com.br/sodimac-br/product/1039247/porcelanato-acetinado-brera-terra-90x90-caixa-163/1039247/
-Porcelanato Polido Munari Cimento 90x90 Caixa 1,63
-R$ 210,90
-https://www.sodimac.com.br/sodimac-br/product/1039283/porcelanato-polido-munari-cimento-90x90-caixa-163/1039283/
-Porcelanato Natural Minimum Areia 90x90 Caixa 1,62
-R$ 205,90
-https://www.sodimac.com.br/sodimac-br/product/1039277/porcelanato-natural-minimum-areia-90x90-caixa-162/1039277/
-Porcelanato Acetinado Iseo Grigio 90x90 Caixa 1,63
+Porcelanato Acetinado Caliza Greige 60x120 Caixa 1,44
 R$ 171,90
-https://www.sodimac.com.br/sodimac-br/product/1039261/porcelanato-acetinado-iseo-grigio-90x90-caixa-163/1039261/
+https://www.sodimac.com.br/sodimac-br/product/1039042/porcelanato-acetinado-caliza-greige-60x120-caixa-144/1039042/
+Porcelanato Acetinado Oslo Argila 60x60 Caixa 1,44
+R$ 97,90
+https://www.sodimac.com.br/sodimac-br/product/1039179/porcelanato-acetinado-oslo-argila-60x60-caixa-144/1039179/
+Porcelanato Externo Arizona Beige 60x60 Caixa 1,44
+R$ 101,90
+https://www.sodimac.com.br/sodimac-br/product/1039092/porcelanato-externo-arizona-beige-60x60-caixa-144/1039092/
+Porcelanato Natural Micron Bege 80x80 Caixa 1,92
+R$ 183,90
+https://www.sodimac.com.br/sodimac-br/product/1039197/porcelanato-natural-micron-bege-80x80-caixa-192/1039197/
+Porcelanato Externo Micron Cz No-slip 60x60 Caixa 1,44
+R$ 224,90
+https://www.sodimac.com.br/sodimac-br/product/1039142/porcelanato-externo-micron-cz-no-slip-60x60-caixa-144/1039142/
+Porcelanato Polido Micron Bege 80x80 Caixa 1,92
+R$ 208,90
+https://www.sodimac.com.br/sodimac-br/product/1039199/porcelanato-polido-micron-bege-80x80-caixa-192/1039199/
+Porcelanato Externo Bali Deck Came 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039094/porcelanato-externo-bali-deck-came-60x60-caixa-144/1039094/
+Porcelanato Externo Bali Deck Greige 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039095/porcelanato-externo-bali-deck-greige-60x60-caixa-144/1039095/
+Porcelanato Externo Arizona Gray 60x60 Caixa 1,44
+R$ 102,90
+https://www.sodimac.com.br/sodimac-br/product/1039093/porcelanato-externo-arizona-gray-60x60-caixa-144/1039093/
+Porcelanato Polido Micron Branco 80x80 Caixa 1,92
+R$ 256,90
+https://www.sodimac.com.br/sodimac-br/product/1039202/porcelanato-polido-micron-branco-80x80-caixa-192/1039202/
+Porcelanato Natural Micron Cosmic 80x80 Caixa 1,92
+R$ 283,90
+https://www.sodimac.com.br/sodimac-br/product/1039208/porcelanato-natural-micron-cosmic-80x80-caixa-192/1039208/
+Porcelanato Acetinado Fossile 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039111/porcelanato-acetinado-fossile-60x60-caixa-144/1039111/
+Porcelanato Natural Materia Carbono 60x120 Caixa 1,44
+R$ 214,90
+https://www.sodimac.com.br/sodimac-br/product/1039060/porcelanato-natural-materia-carbono-60x120-caixa-144/1039060/
+Porcelanato Acetinado Brera Cimento 60x60 Caixa 1,44
+R$ 99,90
+https://www.sodimac.com.br/sodimac-br/product/1039097/porcelanato-acetinado-brera-cimento-60x60-caixa-144/1039097/
+Porcelanato Polido Silex Cinza 60x120 Caixa 1,44
+R$ 323,90
+https://www.sodimac.com.br/sodimac-br/product/1039085/porcelanato-polido-silex-cinza-60x120-caixa-144/1039085/
+Porcelanato Externo Cosmic No-slip 60x60 Caixa 1,44
+R$ 305,90
+https://www.sodimac.com.br/sodimac-br/product/1039148/porcelanato-externo-cosmic-no-slip-60x60-caixa-144/1039148/
+Porcelanato Natural Materia Gesso 60x120 Caixa 1,44
+R$ 339,90
+https://www.sodimac.com.br/sodimac-br/product/1039062/porcelanato-natural-materia-gesso-60x120-caixa-144/1039062/
+Porcelanato Acetinado Caliza Cinza 60x60 Caixa 1,44
+R$ 104,90
+https://www.sodimac.com.br/sodimac-br/product/1039099/porcelanato-acetinado-caliza-cinza-60x60-caixa-144/1039099/
+Porcelanato Acetinado Pulpis Gray 60x120 Caixa 1,44
+R$ 164,90
+https://www.sodimac.com.br/sodimac-br/product/1039082/porcelanato-acetinado-pulpis-gray-60x120-caixa-144/1039082/
+Porcelanato Externo Khali Marfim 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039117/porcelanato-externo-khali-marfim-60x60-caixa-144/1039117/
+Porcelanato ra Micron Cinza 60x60 Caixa 1,44
+R$ 224,90
+https://www.sodimac.com.br/sodimac-br/product/1039144/porcelanato-ra-micron-cinza-60x60-caixa-144/1039144/
+Porcelanato Acetinado Khali Off White 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039118/porcelanato-acetinado-khali-off-white-60x60-caixa-144/1039118/
+Porcelanato Externo Micron Cosmic 80x80 Caixa 1,92
+R$ 283,90
+https://www.sodimac.com.br/sodimac-br/product/1039209/porcelanato-externo-micron-cosmic-80x80-caixa-192/1039209/
+Porcelanato Externo Khali Gris 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039115/porcelanato-externo-khali-gris-60x60-caixa-144/1039115/
+Porcelanato Externo Khali Off White 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039119/porcelanato-externo-khali-off-white-60x60-caixa-144/1039119/
+Porcelanato ra Micron Cinza 60x60 Caixa 1,44
+R$ 224,90
+https://www.sodimac.com.br/sodimac-br/product/1039144/porcelanato-ra-micron-cinza-60x60-caixa-144/1039144/
+Porcelanato Acetinado Khali Off White 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039118/porcelanato-acetinado-khali-off-white-60x60-caixa-144/1039118/
+Porcelanato Externo Micron Cosmic 80x80 Caixa 1,92
+R$ 283,90
+https://www.sodimac.com.br/sodimac-br/product/1039209/porcelanato-externo-micron-cosmic-80x80-caixa-192/1039209/
+Porcelanato Externo Khali Gris 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039115/porcelanato-externo-khali-gris-60x60-caixa-144/1039115/
+Porcelanato Externo Khali Off White 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039119/porcelanato-externo-khali-off-white-60x60-caixa-144/1039119/
+Porcelanato Polido Materia Titanio 60x120 Caixa 1,44
+R$ 261,90
+https://www.sodimac.com.br/sodimac-br/product/1039071/porcelanato-polido-materia-titanio-60x120-caixa-144/1039071/
+Porcelanato Externo Micron Crl Slip 60x60 Caixa 1,44
+R$ 275,90
+https://www.sodimac.com.br/sodimac-br/product/1039145/porcelanato-externo-micron-crl-slip-60x60-caixa-144/1039145/
+Porcelanato ra Micron Zinco 60x60 Caixa 1,44
+R$ 212,90
+https://www.sodimac.com.br/sodimac-br/product/1039159/porcelanato-ra-micron-zinco-60x60-caixa-144/1039159/
+Porcelanato Polido Materia Carbono 80x80 Caixa 1,92
+R$ 216,90
+https://www.sodimac.com.br/sodimac-br/product/1039190/porcelanato-polido-materia-carbono-80x80-caixa-192/1039190/
+Porcelanato Acetinado Dolmen Bege 60x60 Caixa 1,44
+R$ 95,90
+https://www.sodimac.com.br/sodimac-br/product/1039108/porcelanato-acetinado-dolmen-bege-60x60-caixa-144/1039108/
+Porcelanato Polido Materia Grafite 80x80 Caixa 1,92
+R$ 201,90
+https://www.sodimac.com.br/sodimac-br/product/1039193/porcelanato-polido-materia-grafite-80x80-caixa-192/1039193/
+Porcelanato Acetinado Blend Plus White 60x60 Caixa 1,44
+R$ 89,90
+https://www.sodimac.com.br/sodimac-br/product/1039096/porcelanato-acetinado-blend-plus-white-60x60-caixa-144/1039096/
+Porcelanato Natural Materia Petroleo 80x80 Caixa 1,92
+R$ 211,90
+https://www.sodimac.com.br/sodimac-br/product/1039194/porcelanato-natural-materia-petroleo-80x80-caixa-192/1039194/
+Porcelanato Natural Materia Titanio 80x80 Caixa 1,92
+R$ 216,90
+https://www.sodimac.com.br/sodimac-br/product/1039195/porcelanato-natural-materia-titanio-80x80-caixa-192/1039195/
+Porcelanato Polido Materia Carbono 60x120 Caixa 1,44
+R$ 239,90
+https://www.sodimac.com.br/sodimac-br/product/1039061/porcelanato-polido-materia-carbono-60x120-caixa-144/1039061/
+Porcelanato Polido Micron Cosmic 60x60 Caixa 1,44
+R$ 332,90
+https://www.sodimac.com.br/sodimac-br/product/1039149/porcelanato-polido-micron-cosmic-60x60-caixa-144/1039149/
+Porcelanato Polido Pulpis Crema 60x120 Caixa 1,44
+R$ 169,90
+https://www.sodimac.com.br/sodimac-br/product/1039081/porcelanato-polido-pulpis-crema-60x120-caixa-144/1039081/
+Porcelanato Acetinado Dolmen Grafite 60x60 Caixa 1,44
+R$ 79,90
+https://www.sodimac.com.br/sodimac-br/product/1039110/porcelanato-acetinado-dolmen-grafite-60x60-caixa-144/1039110/
+Porcelanato Acetinado Khali Off White 60x120 Caixa 1,44
+R$ 173,90
+https://www.sodimac.com.br/sodimac-br/product/1039054/porcelanato-acetinado-khali-off-white-60x120-caixa-144/1039054/
+Porcelanato Acetinado Khali Gris 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039114/porcelanato-acetinado-khali-gris-60x60-caixa-144/1039114/
+Porcelanato Polido Micron Preto 60x60 Caixa 1,44
+R$ 296,90
+https://www.sodimac.com.br/sodimac-br/product/1039152/porcelanato-polido-micron-preto-60x60-caixa-144/1039152/
+Porcelanato Externo Caliza Cinza 60x60 Caixa 1,44
+R$ 104,90
+https://www.sodimac.com.br/sodimac-br/product/1039100/porcelanato-externo-caliza-cinza-60x60-caixa-144/1039100/
+Porcelanato Natural Materia Calcario 80x80 Caixa 1,92
+R$ 235,90
+https://www.sodimac.com.br/sodimac-br/product/1039187/porcelanato-natural-materia-calcario-80x80-caixa-192/1039187/
+Porcelanato Natural Materia Calcario 60x120 Caixa 1,44
+R$ 265,90
+https://www.sodimac.com.br/sodimac-br/product/1039058/porcelanato-natural-materia-calcario-60x120-caixa-144/1039058/
+Porcelanato Natural Materia Carbono 80x80 Caixa 1,92
+R$ 189,90
+https://www.sodimac.com.br/sodimac-br/product/1039189/porcelanato-natural-materia-carbono-80x80-caixa-192/1039189/
+Porcelanato ra Micron Cosmic 60x60 Caixa 1,44
+R$ 305,90
+https://www.sodimac.com.br/sodimac-br/product/1039150/porcelanato-ra-micron-cosmic-60x60-caixa-144/1039150/
+Porcelanato Polido Materia Gesso 60x60 Caixa 1,44
+R$ 292,90
+https://www.sodimac.com.br/sodimac-br/product/1039129/porcelanato-polido-materia-gesso-60x60-caixa-144/1039129/
+Porcelanato Externo Micron Verde 60x60 Caixa 1,44
+R$ 331,90
+https://www.sodimac.com.br/sodimac-br/product/1039154/porcelanato-externo-micron-verde-60x60-caixa-144/1039154/
 Porcelanato Polido Silex Veggie 90x90 Caixa 1,62
 R$ 478,90
 https://www.sodimac.com.br/sodimac-br/product/1039291/porcelanato-polido-silex-veggie-90x90-caixa-162/1039291/
@@ -1342,6 +670,684 @@ https://www.sodimac.com.br/sodimac-br/product/1039241/porcelanato-acetinado-gobi
 Porcelanato Acetinado Flat 90x90 Caixa 1,63
 R$ 160,90
 https://www.sodimac.com.br/sodimac-br/product/1039260/porcelanato-acetinado-flat-90x90-caixa-163/1039260/
+Porcelanato Gobi Greice Acetinado 60X60
+R$ 110,90
+https://www.sodimac.com.br/sodimac-br/product/1032708/porcelanato-gobi-greice-acetinado-60x60/1032708/
+Porcelanato Gobi Marfim Externo 59X59
+R$ 126,90
+https://www.sodimac.com.br/sodimac-br/product/1032699/porcelanato-gobi-marfim-externo-59x59/1032699/
+Revestimento Zeus Cosmic Metalizado 30X90
+R$ 162,90
+https://www.sodimac.com.br/sodimac-br/product/1033994/revestimento-zeus-cosmic-metalizado-30x90/1033994/
+Porcelanato Gobi Marfim Acetinado 59X59
+R$ 128,90
+https://www.sodimac.com.br/sodimac-br/product/1032698/porcelanato-gobi-marfim-acetinado-59x59/1032698/
+Revestimento Capri Agave Mesh Mate 10X10
+R$ 109,90
+https://www.sodimac.com.br/sodimac-br/product/1032604/revestimento-capri-agave-mesh-mate-10x10/1032604/
+Porcelanato Gobi Marfim Acetinado 60X60
+R$ 110,90
+https://www.sodimac.com.br/sodimac-br/product/1032710/porcelanato-gobi-marfim-acetinado-60x60/1032710/
+Porcelanato Gobi Shell Acetinado 60X60
+R$ 108,90
+https://www.sodimac.com.br/sodimac-br/product/1032712/porcelanato-gobi-shell-acetinado-60x60/1032712/
+Porcelanato Caliza Off White Externo 60X120
+R$ 178,90
+https://www.sodimac.com.br/sodimac-br/product/1032706/porcelanato-caliza-off-white-externo-60x120/1032706/
+Porcelanato Pedra Bahia Gelo Externo 59X59
+R$ 126,90
+https://www.sodimac.com.br/sodimac-br/product/1032702/porcelanato-pedra-bahia-gelo-externo-59x59/1032702/
+Porcelanato Gobi Greige Externo 59X59
+R$ 126,90
+https://www.sodimac.com.br/sodimac-br/product/1032697/porcelanato-gobi-greige-externo-59x59/1032697/
+Revestimento Argos Branco Metalizado 30X90
+R$ 177,90
+https://www.sodimac.com.br/sodimac-br/product/1033988/revestimento-argos-branco-metalizado-30x90/1033988/
+Revestimento Capri Glacial Mesh Mate 10X10
+R$ 146,90
+https://www.sodimac.com.br/sodimac-br/product/1032605/revestimento-capri-glacial-mesh-mate-10x10/1032605/
+Revestimento Capri Marine Mesh Mate 10X10
+R$ 148,90
+https://www.sodimac.com.br/sodimac-br/product/1032607/revestimento-capri-marine-mesh-mate-10x10/1032607/
+Revestimento Galeria Branco Brilhante 10X10
+R$ 106,90
+https://www.sodimac.com.br/sodimac-br/product/1032609/revestimento-galeria-branco-brilhante-10x10/1032609/
+Revestimento Losango Cinza Acetinado 32,5X59
+R$ 106,90
+https://www.sodimac.com.br/sodimac-br/product/1032694/revestimento-losango-cinza-acetinado-325x59/1032694/
+Porcelanato Gobi Greige Externo 60X60
+R$ 106,90
+https://www.sodimac.com.br/sodimac-br/product/1032709/porcelanato-gobi-greige-externo-60x60/1032709/
+Revestimento Capri Hijau Mesh Mate 10X10
+R$ 146,90
+https://www.sodimac.com.br/sodimac-br/product/1032606/revestimento-capri-hijau-mesh-mate-10x10/1032606/
+Revestimento Zeus Coral Metalizado 30X90
+R$ 162,90
+https://www.sodimac.com.br/sodimac-br/product/1033993/revestimento-zeus-coral-metalizado-30x90/1033993/
+Porcelanato Munari Cimento Externo 60X120
+R$ 153,90
+https://www.sodimac.com.br/sodimac-br/product/1032707/porcelanato-munari-cimento-externo-60x120/1032707/
+Porcelanato Safari Fume Mate 19X90
+R$ 134,90
+https://www.sodimac.com.br/sodimac-br/product/1032670/porcelanato-safari-fume-mate-19x90/1032670/
+Porcelanato Artico Alpe Acetinado 60X120
+R$ 161,90
+https://www.sodimac.com.br/sodimac-br/product/1032703/porcelanato-artico-alpe-acetinado-60x120/1032703/
+Porcelanato Khali Marfim Externo 19X90
+R$ 143,90
+https://www.sodimac.com.br/sodimac-br/product/1032667/porcelanato-khali-marfim-externo-19x90/1032667/
+Porcelanato Khali Gris Externo 19X90
+R$ 143,90
+https://www.sodimac.com.br/sodimac-br/product/1032665/porcelanato-khali-gris-externo-19x90/1032665/
+Porcelanato Externo Khali Off White 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039016/porcelanato-externo-khali-off-white-59x59-caixa-139/1039016/
+Porcelanato Esmaltado Munari Concreto Acetinado 90x90cm Caixa 1,63m² Cinza
+R$ 129,90
+https://www.sodimac.com.br/sodimac-br/product/509440/porcelanato-esmaltado-munari-concreto-acetinado-90x90cm-caixa-163m-cinza/509440/
+Porcelanato Micron Cinza 80x80cm Eliane
+R$ 177,90
+https://www.sodimac.com.br/sodimac-br/product/889114/porcelanato-micron-cinza-80x80cm-eliane/889114/
+Porcelanato Polido Panna Plus PO 60x60cm Bege
+R$ 139,90
+https://www.sodimac.com.br/sodimac-br/product/28716/porcelanato-polido-panna-plus-po-60x60cm-bege/28716/
+Porcelanato Brera Cimento Ext 90x90
+R$ 124,90
+https://www.sodimac.com.br/sodimac-br/product/867686/porcelanato-brera-cimento-ext-90x90/867686/
+Porcelanato Polido Silex Cinza 90x90 Caixa 1,62
+R$ 350,90
+https://www.sodimac.com.br/sodimac-br/product/1039289/porcelanato-polido-silex-cinza-90x90-caixa-162/1039289/
+Porcelanato Polido Materia Calcario 90x90 Caixa 1,62
+R$ 311,90
+https://www.sodimac.com.br/sodimac-br/product/1039275/porcelanato-polido-materia-calcario-90x90-caixa-162/1039275/
+Porcelanato Acetinado Caliza Frost 90x90 Caixa 1,63
+R$ 139,90
+https://www.sodimac.com.br/sodimac-br/product/1039251/porcelanato-acetinado-caliza-frost-90x90-caixa-163/1039251/
+Porcelanato Natural Minimum Grafite 80x80 Caixa 1,92
+R$ 177,90
+https://www.sodimac.com.br/sodimac-br/product/1039231/porcelanato-natural-minimum-grafite-80x80-caixa-192/1039231/
+Porcelanato Externo Iseo Marfim 90x90 Caixa 1,63
+R$ 175,90
+https://www.sodimac.com.br/sodimac-br/product/1039264/porcelanato-externo-iseo-marfim-90x90-caixa-163/1039264/
+Porcelanato Externo Caliza Greige 90x90 Caixa 1,63
+R$ 172,90
+https://www.sodimac.com.br/sodimac-br/product/1039254/porcelanato-externo-caliza-greige-90x90-caixa-163/1039254/
+Porcelanato Polido Silex Branco 90x90 Caixa 1,62
+R$ 443,90
+https://www.sodimac.com.br/sodimac-br/product/1039288/porcelanato-polido-silex-branco-90x90-caixa-162/1039288/
+Porcelanato Externo Gobi Marfim 84x84 Caixa 1,41
+R$ 140,90
+https://www.sodimac.com.br/sodimac-br/product/1039240/porcelanato-externo-gobi-marfim-84x84-caixa-141/1039240/
+Porcelanato Acetinado Gobi Shell 84x84 Caixa 1,41
+R$ 139,90
+https://www.sodimac.com.br/sodimac-br/product/1039241/porcelanato-acetinado-gobi-shell-84x84-caixa-141/1039241/
+Porcelanato Acetinado Flat 90x90 Caixa 1,63
+R$ 160,90
+https://www.sodimac.com.br/sodimac-br/product/1039260/porcelanato-acetinado-flat-90x90-caixa-163/1039260/
+Porcelanato Acetinado Iseo Marfim 90x90 Caixa 1,63
+R$ 175,90
+https://www.sodimac.com.br/sodimac-br/product/1039262/porcelanato-acetinado-iseo-marfim-90x90-caixa-163/1039262/
+Porcelanato Polido Stelar White 90x90 Caixa 1,62
+R$ 351,90
+https://www.sodimac.com.br/sodimac-br/product/1039296/porcelanato-polido-stelar-white-90x90-caixa-162/1039296/
+Porcelanato Acetinado Brera Mar 90x90 Caixa 1,63
+R$ 165,90
+https://www.sodimac.com.br/sodimac-br/product/1039246/porcelanato-acetinado-brera-mar-90x90-caixa-163/1039246/
+Porcelanato Externo Minimum Concreto 80x80 Caixa 1,92
+R$ 191,90
+https://www.sodimac.com.br/sodimac-br/product/1039227/porcelanato-externo-minimum-concreto-80x80-caixa-192/1039227/
+Porcelanato Natural Micron Zinco 80x80 Caixa 1,92
+R$ 187,90
+https://www.sodimac.com.br/sodimac-br/product/1039217/porcelanato-natural-micron-zinco-80x80-caixa-192/1039217/
+Porcelanato Natural Minimum Areia 80x80 Caixa 1,92
+R$ 170,90
+https://www.sodimac.com.br/sodimac-br/product/1039221/porcelanato-natural-minimum-areia-80x80-caixa-192/1039221/
+Porcelanato Polido Minimum Cimento 80x80 Caixa 1,92
+R$ 205,90
+https://www.sodimac.com.br/sodimac-br/product/1039226/porcelanato-polido-minimum-cimento-80x80-caixa-192/1039226/
+Porcelanato Externo Minimum Carbono 80x80 Caixa 1,92
+R$ 188,90
+https://www.sodimac.com.br/sodimac-br/product/1039223/porcelanato-externo-minimum-carbono-80x80-caixa-192/1039223/
+Porcelanato Acetinado Brera Terra 90x90 Caixa 1,63
+R$ 160,90
+https://www.sodimac.com.br/sodimac-br/product/1039247/porcelanato-acetinado-brera-terra-90x90-caixa-163/1039247/
+Porcelanato Polido Onix Cristal 90x90 Caixa 1,63
+R$ 174,90
+https://www.sodimac.com.br/sodimac-br/product/1039285/porcelanato-polido-onix-cristal-90x90-caixa-163/1039285/
+Porcelanato Externo Caliza Cinza 90x90 Caixa 1,63
+R$ 149,90
+https://www.sodimac.com.br/sodimac-br/product/1039250/porcelanato-externo-caliza-cinza-90x90-caixa-163/1039250/
+Porcelanato Polido Munari Cimento 90x90 Caixa 1,63
+R$ 210,90
+https://www.sodimac.com.br/sodimac-br/product/1039283/porcelanato-polido-munari-cimento-90x90-caixa-163/1039283/
+Porcelanato Polido Pisano Marfim 90x90 Caixa 1,62
+R$ 348,90
+https://www.sodimac.com.br/sodimac-br/product/1039287/porcelanato-polido-pisano-marfim-90x90-caixa-162/1039287/
+Porcelanato Polido Stelar Blacetinadok 90x90 Caixa 1,62
+R$ 330,90
+https://www.sodimac.com.br/sodimac-br/product/1039294/porcelanato-polido-stelar-blacetinadok-90x90-caixa-162/1039294/
+Porcelanato Externo Khali Marfim 90x90 Caixa 1,63
+R$ 176,90
+https://www.sodimac.com.br/sodimac-br/product/1039271/porcelanato-externo-khali-marfim-90x90-caixa-163/1039271/
+Porcelanato Externo Minimum Areia 90x90 Caixa 1,62
+R$ 204,90
+https://www.sodimac.com.br/sodimac-br/product/1039276/porcelanato-externo-minimum-areia-90x90-caixa-162/1039276/
+Porcelanato Externo Minimum Grafite 80x80 Caixa 1,92
+R$ 178,90
+https://www.sodimac.com.br/sodimac-br/product/1039230/porcelanato-externo-minimum-grafite-80x80-caixa-192/1039230/
+Porcelanato Natural Minimum Areia 90x90 Caixa 1,62
+R$ 205,90
+https://www.sodimac.com.br/sodimac-br/product/1039277/porcelanato-natural-minimum-areia-90x90-caixa-162/1039277/
+Porcelanato Externo Micron Preto 80x80 Caixa 1,92
+R$ 222,90
+https://www.sodimac.com.br/sodimac-br/product/1039212/porcelanato-externo-micron-preto-80x80-caixa-192/1039212/
+Porcelanato Polido Platina 60x60 Caixa 1,44
+R$ 216,90
+https://www.sodimac.com.br/sodimac-br/product/1039184/porcelanato-polido-platina-60x60-caixa-144/1039184/
+Porcelanato Natural Platina 60x60 Caixa 1,44
+R$ 154,90
+https://www.sodimac.com.br/sodimac-br/product/1039183/porcelanato-natural-platina-60x60-caixa-144/1039183/
+Porcelanato Polido Materia Calcario 60x60 Caixa 1,44
+R$ 232,90
+https://www.sodimac.com.br/sodimac-br/product/1039125/porcelanato-polido-materia-calcario-60x60-caixa-144/1039125/
+Porcelanato Natural Materia Carbono 60x60 Caixa 1,44
+R$ 168,90
+https://www.sodimac.com.br/sodimac-br/product/1039126/porcelanato-natural-materia-carbono-60x60-caixa-144/1039126/
+Porcelanato Acetinado Munari Cimento 60x60 Caixa 1,44
+R$ 98,90
+https://www.sodimac.com.br/sodimac-br/product/1039173/porcelanato-acetinado-munari-cimento-60x60-caixa-144/1039173/
+Porcelanato Acetinado Iseo Grigio 60x120 Caixa 1,44
+R$ 166,90
+https://www.sodimac.com.br/sodimac-br/product/1039049/porcelanato-acetinado-iseo-grigio-60x120-caixa-144/1039049/
+Porcelanato Acetinado Dolmen Cinza 60x60 Caixa 1,44
+R$ 93,90
+https://www.sodimac.com.br/sodimac-br/product/1039109/porcelanato-acetinado-dolmen-cinza-60x60-caixa-144/1039109/
+Porcelanato Polido Minimum Carbono 60x60 Caixa 1,44
+R$ 192,90
+https://www.sodimac.com.br/sodimac-br/product/1039165/porcelanato-polido-minimum-carbono-60x60-caixa-144/1039165/
+Porcelanato Polido Onix Cristallo 60x120 Caixa 1,44
+R$ 230,90
+https://www.sodimac.com.br/sodimac-br/product/1039074/porcelanato-polido-onix-cristallo-60x120-caixa-144/1039074/
+Porcelanato Natural Materia Gesso 60x60 Caixa 1,44
+R$ 269,90
+https://www.sodimac.com.br/sodimac-br/product/1039128/porcelanato-natural-materia-gesso-60x60-caixa-144/1039128/
+Porcelanato Natural Micron Branco 80x80 Caixa 1,92
+R$ 232,90
+https://www.sodimac.com.br/sodimac-br/product/1039200/porcelanato-natural-micron-branco-80x80-caixa-192/1039200/
+Porcelanato ra Micron Preto 60x60 Caixa 1,44
+R$ 258,90
+https://www.sodimac.com.br/sodimac-br/product/1039153/porcelanato-ra-micron-preto-60x60-caixa-144/1039153/
+Porcelanato Polido Materia Carbono 60x60 Caixa 1,44
+R$ 191,90
+https://www.sodimac.com.br/sodimac-br/product/1039127/porcelanato-polido-materia-carbono-60x60-caixa-144/1039127/
+Porcelanato Externo Minimum Grafite 60x60 Caixa 1,44
+R$ 163,90
+https://www.sodimac.com.br/sodimac-br/product/1039166/porcelanato-externo-minimum-grafite-60x60-caixa-144/1039166/
+Porcelanato Externo Micron Bco Slip 60x60 Caixa 1,44
+R$ 293,90
+https://www.sodimac.com.br/sodimac-br/product/1039139/porcelanato-externo-micron-bco-slip-60x60-caixa-144/1039139/
+Porcelanato Natural Materia Calcario 60x60 Caixa 1,44
+R$ 210,90
+https://www.sodimac.com.br/sodimac-br/product/1039124/porcelanato-natural-materia-calcario-60x60-caixa-144/1039124/
+Porcelanato Acetinado London 60x120 Caixa 1,44
+R$ 153,90
+https://www.sodimac.com.br/sodimac-br/product/1039055/porcelanato-acetinado-london-60x120-caixa-144/1039055/
+Porcelanato Polido Materia Gesso 60x120 Caixa 1,44
+R$ 363,90
+https://www.sodimac.com.br/sodimac-br/product/1039063/porcelanato-polido-materia-gesso-60x120-caixa-144/1039063/
+Porcelanato Externo Manila Marfim 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039123/porcelanato-externo-manila-marfim-60x60-caixa-144/1039123/
+Porcelanato Natural Materia Terra 60x120 Caixa 1,44
+R$ 262,90
+https://www.sodimac.com.br/sodimac-br/product/1039068/porcelanato-natural-materia-terra-60x120-caixa-144/1039068/
+Porcelanato Acetinado Manila Cinza 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039120/porcelanato-acetinado-manila-cinza-60x60-caixa-144/1039120/
+Porcelanato Acetinado Manila Marfim 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039122/porcelanato-acetinado-manila-marfim-60x60-caixa-144/1039122/
+Porcelanato Externo Caliza Frost 60x120 Caixa 1,44
+R$ 171,90
+https://www.sodimac.com.br/sodimac-br/product/1039041/porcelanato-externo-caliza-frost-60x120-caixa-144/1039041/
+Porcelanato Polido Cimento Granulos 80x80 Caixa 1,92
+R$ 189,90
+https://www.sodimac.com.br/sodimac-br/product/1039186/porcelanato-polido-cimento-granulos-80x80-caixa-192/1039186/
+Porcelanato Externo Brera Cimento 60x60 Caixa 1,44
+R$ 97,90
+https://www.sodimac.com.br/sodimac-br/product/1039098/porcelanato-externo-brera-cimento-60x60-caixa-144/1039098/
+Porcelanato Externo Micron Preto 60x60 Caixa 1,44
+R$ 249,90
+https://www.sodimac.com.br/sodimac-br/product/1039151/porcelanato-externo-micron-preto-60x60-caixa-144/1039151/
+Porcelanato Natural Stelar Blacetinadok 60x120 Caixa 1,44
+R$ 247,90
+https://www.sodimac.com.br/sodimac-br/product/1039088/porcelanato-natural-stelar-blacetinadok-60x120-caixa-144/1039088/
+Porcelanato Polido Atena Marfim 60x120 Caixa 1,44
+R$ 219,90
+https://www.sodimac.com.br/sodimac-br/product/1039038/porcelanato-polido-atena-marfim-60x120-caixa-144/1039038/
+Porcelanato Acetinado Placetinadoe 59x59 Caixa 1,39
+R$ 116,90
+https://www.sodimac.com.br/sodimac-br/product/1039033/porcelanato-acetinado-placetinadoe-59x59-caixa-139/1039033/
+Porcelanato Polido Onix Cristal 59x59 Caixa 1,39
+R$ 172,90
+https://www.sodimac.com.br/sodimac-br/product/1039027/porcelanato-polido-onix-cristal-59x59-caixa-139/1039027/
+Porcelanato Polido Munari Marfim 59x59 Caixa 1,39
+R$ 157,90
+https://www.sodimac.com.br/sodimac-br/product/1039026/porcelanato-polido-munari-marfim-59x59-caixa-139/1039026/
+Porcelanato Polido Onix Perola Po 59x59 Caixa 1,39
+R$ 176,90
+https://www.sodimac.com.br/sodimac-br/product/1039029/porcelanato-polido-onix-perola-po-59x59-caixa-139/1039029/
+Porcelanato Externo Quartz Areia 59x59 Caixa 1,39
+R$ 112,90
+https://www.sodimac.com.br/sodimac-br/product/1039035/porcelanato-externo-quartz-areia-59x59-caixa-139/1039035/
+Porcelanato Acetinado Caliza Cinza 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1038995/porcelanato-acetinado-caliza-cinza-59x59-caixa-139/1038995/
+Porcelanato Acetinado Caliza Off White 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1039001/porcelanato-acetinado-caliza-off-white-59x59-caixa-139/1039001/
+Porcelanato Externo Arizona Gray 59x59 Caixa 1,39
+R$ 125,90
+https://www.sodimac.com.br/sodimac-br/product/1038989/porcelanato-externo-arizona-gray-59x59-caixa-139/1038989/
+Porcelanato Externo Khali Gris 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039012/porcelanato-externo-khali-gris-59x59-caixa-139/1039012/
+Porcelanato Acetinado Khali Off White 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039015/porcelanato-acetinado-khali-off-white-59x59-caixa-139/1039015/
+Porcelanato Externo Arena Cinza 59x59 Caixa 1,39
+R$ 135,90
+https://www.sodimac.com.br/sodimac-br/product/1038987/porcelanato-externo-arena-cinza-59x59-caixa-139/1038987/
+Porcelanato Externo Khali Marfim 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039014/porcelanato-externo-khali-marfim-59x59-caixa-139/1039014/
+Porcelanato Acetinado Caliza Greige 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1038999/porcelanato-acetinado-caliza-greige-59x59-caixa-139/1038999/
+Porcelanato Acetinado Oslo Antracetinadoite 59x59 Caixa 1,39
+R$ 125,90
+https://www.sodimac.com.br/sodimac-br/product/1039030/porcelanato-acetinado-oslo-antracetinadoite-59x59-caixa-139/1039030/
+Porcelanato Acetinado Manila Cinza 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039017/porcelanato-acetinado-manila-cinza-59x59-caixa-139/1039017/
+Porcelanato Acetinado Khali Marfim 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039013/porcelanato-acetinado-khali-marfim-59x59-caixa-139/1039013/
+Porcelanato Acetinado Dolmen Cinza 59x59 Caixa 1,39
+R$ 115,90
+https://www.sodimac.com.br/sodimac-br/product/1039004/porcelanato-acetinado-dolmen-cinza-59x59-caixa-139/1039004/
+Porcelanato Acetinado Dolmen Grafite 59x59 Caixa 1,39
+R$ 126,90
+https://www.sodimac.com.br/sodimac-br/product/1039005/porcelanato-acetinado-dolmen-grafite-59x59-caixa-139/1039005/
+Porcelanato Externo Munari Concreto 59x59 Caixa 1,39
+R$ 128,90
+https://www.sodimac.com.br/sodimac-br/product/1039022/porcelanato-externo-munari-concreto-59x59-caixa-139/1039022/
+Porcelanato Acetinado Brera Cimento 59x59 Caixa 1,39
+R$ 122,90
+https://www.sodimac.com.br/sodimac-br/product/1038993/porcelanato-acetinado-brera-cimento-59x59-caixa-139/1038993/
+Porcelanato Acetinado Caliza Cinza 60x120 Caixa 1,44
+R$ 168,90
+https://www.sodimac.com.br/sodimac-br/product/1039039/porcelanato-acetinado-caliza-cinza-60x120-caixa-144/1039039/
+Porcelanato Acetinado Khali Gris 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039011/porcelanato-acetinado-khali-gris-59x59-caixa-139/1039011/
+Porcelanato Externo Manila Marfim 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039020/porcelanato-externo-manila-marfim-59x59-caixa-139/1039020/
+Porcelanato Externo Caliza Cinza 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1038996/porcelanato-externo-caliza-cinza-59x59-caixa-139/1038996/
+Porcelanato Externo Arizona Beige 59x59 Caixa 1,39
+R$ 119,90
+https://www.sodimac.com.br/sodimac-br/product/1038988/porcelanato-externo-arizona-beige-59x59-caixa-139/1038988/
+Porcelanato Acetinado Caliza Frost 59x59 Caixa 1,39
+R$ 125,90
+https://www.sodimac.com.br/sodimac-br/product/1038997/porcelanato-acetinado-caliza-frost-59x59-caixa-139/1038997/
+Porcelanato Acetinado Arenaria Bege 60x120 Caixa 1,44
+R$ 156,90
+https://www.sodimac.com.br/sodimac-br/product/1039036/porcelanato-acetinado-arenaria-bege-60x120-caixa-144/1039036/
+Porcelanato Khali Marfim Externo 19X90
+R$ 143,90
+https://www.sodimac.com.br/sodimac-br/product/1032667/porcelanato-khali-marfim-externo-19x90/1032667/
+Porcelanato Khali Marfim Acetinado 19X90
+R$ 143,90
+https://www.sodimac.com.br/sodimac-br/product/1032666/porcelanato-khali-marfim-acetinado-19x90/1032666/
+Porcelanato Khali Gris Externo 19X90
+R$ 143,90
+https://www.sodimac.com.br/sodimac-br/product/1032665/porcelanato-khali-gris-externo-19x90/1032665/
+Porcelanato Dolmen Grafite 90x90cm Eliane
+R$ 159,90
+https://www.sodimac.com.br/sodimac-br/product/888061/porcelanato-dolmen-grafite-90x90cm-eliane/888061/
+Porcelanato Polido Fossile 59x59 Caixa 1,39
+R$ 175,90
+https://www.sodimac.com.br/sodimac-br/product/1039008/porcelanato-polido-fossile-59x59-caixa-139/1039008/
+Porcelanato Externo Munari Grafiti 59x59 Caixa 1,39
+R$ 131,90
+https://www.sodimac.com.br/sodimac-br/product/1039024/porcelanato-externo-munari-grafiti-59x59-caixa-139/1039024/
+Porcelanato Acetinado Atena Marfim 59x59 Caixa 1,39
+R$ 117,90
+https://www.sodimac.com.br/sodimac-br/product/1038990/porcelanato-acetinado-atena-marfim-59x59-caixa-139/1038990/
+Porcelanato Acetinado Oslo Brick 59x59 Caixa 1,39
+R$ 125,90
+https://www.sodimac.com.br/sodimac-br/product/1039032/porcelanato-acetinado-oslo-brick-59x59-caixa-139/1039032/
+Porcelanato Guache Agave Mate
+R$ 277,90
+https://www.sodimac.com.br/sodimac-br/product/1033352/porcelanato-guache-agave-mate/1033352/
+Porcelanato Arqtec Stop Azul Natural
+R$ 1.162,90
+https://www.sodimac.com.br/sodimac-br/product/1033468/porcelanato-arqtec-stop-azul-natural/1033468/
+Porcelanato Peroba 19,7x120cm Eliane
+R$ 119,90
+https://www.sodimac.com.br/sodimac-br/product/888186/porcelanato-peroba-197x120cm-eliane/888186/
+Porcelanato Khali Greige Mate
+R$ 173,90
+https://www.sodimac.com.br/sodimac-br/product/1033514/porcelanato-khali-greige-mate/1033514/
+Porcelanato Capri Glacial Mate
+R$ 111,90
+https://www.sodimac.com.br/sodimac-br/product/1033441/porcelanato-capri-glacial-mate/1033441/
+Porcelanato Bianco Plus Polido Caixa 1,44m² 60x60cm Bege Eliane
+R$ 109,90
+https://www.sodimac.com.br/sodimac-br/product/28639/porcelanato-bianco-plus-polido-caixa-144m-60x60cm-bege-eliane/28639/
+Porcelanato Flat Externo 90x90cm Eliane
+R$ 142,90
+https://www.sodimac.com.br/sodimac-br/product/888181/porcelanato-flat-externo-90x90cm-eliane/888181/
+Porcelanato Externo Arena Cinza 60x60 Caixa 1,44
+R$ 102,90
+https://www.sodimac.com.br/sodimac-br/product/1039091/porcelanato-externo-arena-cinza-60x60-caixa-144/1039091/
+Porcelanato Asfalto Acetinado 120X240
+R$ 541,90
+https://www.sodimac.com.br/sodimac-br/product/1029569/porcelanato-asfalto-acetinado-120x240/1029569/
+Porcelanato Marmo Grafite Pólido 80X160
+R$ 389,90
+https://www.sodimac.com.br/sodimac-br/product/1029581/porcelanato-marmo-grafite-polido-80x160/1029581/
+Porcelanato Bloc Grafite Pólido 80X160
+R$ 559,90
+https://www.sodimac.com.br/sodimac-br/product/1029578/porcelanato-bloc-grafite-polido-80x160/1029578/
+Porcelanato Apuan Acetinado 120X240
+R$ 641,90
+https://www.sodimac.com.br/sodimac-br/product/1029568/porcelanato-apuan-acetinado-120x240/1029568/
+Porcelanato Bloc Dark Pólido 80X160
+R$ 709,90
+https://www.sodimac.com.br/sodimac-br/product/1029577/porcelanato-bloc-dark-polido-80x160/1029577/
+Porcelanato Onix Grafite Pólido 120X240
+R$ 549,90
+https://www.sodimac.com.br/sodimac-br/product/1029575/porcelanato-onix-grafite-polido-120x240/1029575/
+Porcelanato Bianco Oro Pólido 120X240
+R$ 549,90
+https://www.sodimac.com.br/sodimac-br/product/1029570/porcelanato-bianco-oro-polido-120x240/1029570/
+Porcelanato Bloc Oliva Pólido 80X160
+R$ 715,90
+https://www.sodimac.com.br/sodimac-br/product/1029580/porcelanato-bloc-oliva-polido-80x160/1029580/
+Porcelanato Antracite Acetinado 120X240
+R$ 541,90
+https://www.sodimac.com.br/sodimac-br/product/1029567/porcelanato-antracite-acetinado-120x240/1029567/
+Porcelanato Bloc Light Pólido 80X160
+R$ 765,90
+https://www.sodimac.com.br/sodimac-br/product/1029579/porcelanato-bloc-light-polido-80x160/1029579/
+Porcelanato Marmo Gris Pólido 120X240
+R$ 494,90
+https://www.sodimac.com.br/sodimac-br/product/1029573/porcelanato-marmo-gris-polido-120x240/1029573/
+Porcelanato Nuvola Off White Pólido 120X240
+R$ 641,90
+https://www.sodimac.com.br/sodimac-br/product/1029574/porcelanato-nuvola-off-white-polido-120x240/1029574/
+Porcelanato Acetinado Caliza Greige 60x120 Caixa 1,44
+R$ 171,90
+https://www.sodimac.com.br/sodimac-br/product/1039042/porcelanato-acetinado-caliza-greige-60x120-caixa-144/1039042/
+Porcelanato Acetinado Oslo Argila 60x60 Caixa 1,44
+R$ 97,90
+https://www.sodimac.com.br/sodimac-br/product/1039179/porcelanato-acetinado-oslo-argila-60x60-caixa-144/1039179/
+Porcelanato Externo Arizona Beige 60x60 Caixa 1,44
+R$ 101,90
+https://www.sodimac.com.br/sodimac-br/product/1039092/porcelanato-externo-arizona-beige-60x60-caixa-144/1039092/
+Porcelanato Natural Micron Bege 80x80 Caixa 1,92
+R$ 183,90
+https://www.sodimac.com.br/sodimac-br/product/1039197/porcelanato-natural-micron-bege-80x80-caixa-192/1039197/
+Porcelanato Externo Micron Cz No-slip 60x60 Caixa 1,44
+R$ 224,90
+https://www.sodimac.com.br/sodimac-br/product/1039142/porcelanato-externo-micron-cz-no-slip-60x60-caixa-144/1039142/
+Porcelanato Polido Micron Bege 80x80 Caixa 1,92
+R$ 208,90
+https://www.sodimac.com.br/sodimac-br/product/1039199/porcelanato-polido-micron-bege-80x80-caixa-192/1039199/
+Porcelanato Externo Bali Deck Came 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039094/porcelanato-externo-bali-deck-came-60x60-caixa-144/1039094/
+Porcelanato Externo Bali Deck Greige 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039095/porcelanato-externo-bali-deck-greige-60x60-caixa-144/1039095/
+Porcelanato Externo Arizona Gray 60x60 Caixa 1,44
+R$ 102,90
+https://www.sodimac.com.br/sodimac-br/product/1039093/porcelanato-externo-arizona-gray-60x60-caixa-144/1039093/
+Porcelanato Polido Micron Branco 80x80 Caixa 1,92
+R$ 256,90
+https://www.sodimac.com.br/sodimac-br/product/1039202/porcelanato-polido-micron-branco-80x80-caixa-192/1039202/
+Porcelanato Natural Micron Cosmic 80x80 Caixa 1,92
+R$ 283,90
+https://www.sodimac.com.br/sodimac-br/product/1039208/porcelanato-natural-micron-cosmic-80x80-caixa-192/1039208/
+Porcelanato Acetinado Fossile 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039111/porcelanato-acetinado-fossile-60x60-caixa-144/1039111/
+Porcelanato Natural Materia Carbono 60x120 Caixa 1,44
+R$ 214,90
+https://www.sodimac.com.br/sodimac-br/product/1039060/porcelanato-natural-materia-carbono-60x120-caixa-144/1039060/
+Porcelanato Acetinado Brera Cimento 60x60 Caixa 1,44
+R$ 99,90
+https://www.sodimac.com.br/sodimac-br/product/1039097/porcelanato-acetinado-brera-cimento-60x60-caixa-144/1039097/
+Porcelanato Polido Silex Cinza 60x120 Caixa 1,44
+R$ 323,90
+https://www.sodimac.com.br/sodimac-br/product/1039085/porcelanato-polido-silex-cinza-60x120-caixa-144/1039085/
+Porcelanato Externo Cosmic No-slip 60x60 Caixa 1,44
+R$ 305,90
+https://www.sodimac.com.br/sodimac-br/product/1039148/porcelanato-externo-cosmic-no-slip-60x60-caixa-144/1039148/
+Porcelanato Natural Materia Gesso 60x120 Caixa 1,44
+R$ 339,90
+https://www.sodimac.com.br/sodimac-br/product/1039062/porcelanato-natural-materia-gesso-60x120-caixa-144/1039062/
+Porcelanato Acetinado Caliza Cinza 60x60 Caixa 1,44
+R$ 104,90
+https://www.sodimac.com.br/sodimac-br/product/1039099/porcelanato-acetinado-caliza-cinza-60x60-caixa-144/1039099/
+Porcelanato Acetinado Pulpis Gray 60x120 Caixa 1,44
+R$ 164,90
+https://www.sodimac.com.br/sodimac-br/product/1039082/porcelanato-acetinado-pulpis-gray-60x120-caixa-144/1039082/
+Porcelanato Externo Khali Marfim 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039117/porcelanato-externo-khali-marfim-60x60-caixa-144/1039117/
+Porcelanato ra Micron Cinza 60x60 Caixa 1,44
+R$ 224,90
+https://www.sodimac.com.br/sodimac-br/product/1039144/porcelanato-ra-micron-cinza-60x60-caixa-144/1039144/
+Porcelanato Acetinado Khali Off White 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039118/porcelanato-acetinado-khali-off-white-60x60-caixa-144/1039118/
+Porcelanato Externo Micron Cosmic 80x80 Caixa 1,92
+R$ 283,90
+https://www.sodimac.com.br/sodimac-br/product/1039209/porcelanato-externo-micron-cosmic-80x80-caixa-192/1039209/
+Porcelanato Externo Khali Gris 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039115/porcelanato-externo-khali-gris-60x60-caixa-144/1039115/
+Porcelanato Externo Khali Off White 60x60 Caixa 1,44
+R$ 105,90
+https://www.sodimac.com.br/sodimac-br/product/1039119/porcelanato-externo-khali-off-white-60x60-caixa-144/1039119/
+Porcelanato Polido Materia Titanio 60x120 Caixa 1,44
+R$ 261,90
+https://www.sodimac.com.br/sodimac-br/product/1039071/porcelanato-polido-materia-titanio-60x120-caixa-144/1039071/
+Porcelanato Externo Micron Crl Slip 60x60 Caixa 1,44
+R$ 275,90
+https://www.sodimac.com.br/sodimac-br/product/1039145/porcelanato-externo-micron-crl-slip-60x60-caixa-144/1039145/
+Porcelanato ra Micron Zinco 60x60 Caixa 1,44
+R$ 212,90
+https://www.sodimac.com.br/sodimac-br/product/1039159/porcelanato-ra-micron-zinco-60x60-caixa-144/1039159/
+Porcelanato Bosco Camel Mate
+R$ 176,90
+https://www.sodimac.com.br/sodimac-br/product/1033424/porcelanato-bosco-camel-mate/1033424/
+Porcelanato Arqtec Stop Amarelo Natural
+R$ 1.201,90
+https://www.sodimac.com.br/sodimac-br/product/1033467/porcelanato-arqtec-stop-amarelo-natural/1033467/
+Porcelanato Munari Cimento Mate
+R$ 111,90
+https://www.sodimac.com.br/sodimac-br/product/1033460/porcelanato-munari-cimento-mate/1033460/
+Porcelanato Bosco Camel Marrom 19x90cm Caixa 1,54m² Eliane
+R$ 89,90
+https://www.sodimac.com.br/sodimac-br/product/958576/porcelanato-bosco-camel-marrom-19x90cm-caixa-154m-eliane/958576/
+Porcelanato Blend Plus Grey Externo
+R$ 99,90
+https://www.sodimac.com.br/sodimac-br/product/1032191/porcelanato-blend-plus-grey-externo/1032191/
+Porcelanato Externo Gobi Shell 84x84 Caixa 1,41
+R$ 140,90
+https://www.sodimac.com.br/sodimac-br/product/1039242/porcelanato-externo-gobi-shell-84x84-caixa-141/1039242/
+Porcelanato Polido Minimum Grafite 80x80 Caixa 1,92
+R$ 202,90
+https://www.sodimac.com.br/sodimac-br/product/1039232/porcelanato-polido-minimum-grafite-80x80-caixa-192/1039232/
+Porcelanato Polido Minimum Areia 80x80 Caixa 1,92
+R$ 195,90
+https://www.sodimac.com.br/sodimac-br/product/1039222/porcelanato-polido-minimum-areia-80x80-caixa-192/1039222/
+Porcelanato Polido Micron Verde 80x80 Caixa 1,92
+R$ 321,90
+https://www.sodimac.com.br/sodimac-br/product/1039216/porcelanato-polido-micron-verde-80x80-caixa-192/1039216/
+Porcelanato Externo State Cement 90x90 Caixa 1,62
+R$ 191,90
+https://www.sodimac.com.br/sodimac-br/product/1039292/porcelanato-externo-state-cement-90x90-caixa-162/1039292/
+Porcelanato Natural Stelar White 90x90 Caixa 1,62
+R$ 299,90
+https://www.sodimac.com.br/sodimac-br/product/1039295/porcelanato-natural-stelar-white-90x90-caixa-162/1039295/
+Porcelanato Polido Minimum Nude 80x80 Caixa 1,92
+R$ 246,90
+https://www.sodimac.com.br/sodimac-br/product/1039234/porcelanato-polido-minimum-nude-80x80-caixa-192/1039234/
+Porcelanato Externo Dolmen Grafite 90x90 Caixa 1,63
+R$ 155,90
+https://www.sodimac.com.br/sodimac-br/product/1039259/porcelanato-externo-dolmen-grafite-90x90-caixa-163/1039259/
+Porcelanato Externo Areia 84x84 Caixa 1,41
+R$ 135,90
+https://www.sodimac.com.br/sodimac-br/product/1039235/porcelanato-externo-areia-84x84-caixa-141/1039235/
+Porcelanato Externo Minimum Areia 80x80 Caixa 1,92
+R$ 168,90
+https://www.sodimac.com.br/sodimac-br/product/1039220/porcelanato-externo-minimum-areia-80x80-caixa-192/1039220/
+Porcelanato Externo Minimum Cimento 80x80 Caixa 1,92
+R$ 189,90
+https://www.sodimac.com.br/sodimac-br/product/1039224/porcelanato-externo-minimum-cimento-80x80-caixa-192/1039224/
+Porcelanato Externo Minimum Cimento 90x90 Caixa 1,62
+R$ 215,90
+https://www.sodimac.com.br/sodimac-br/product/1039279/porcelanato-externo-minimum-cimento-90x90-caixa-162/1039279/
+Porcelanato Natural Minimum Concreto 80x80 Caixa 1,92
+R$ 191,90
+https://www.sodimac.com.br/sodimac-br/product/1039228/porcelanato-natural-minimum-concreto-80x80-caixa-192/1039228/
+Porcelanato Acetinado Caliza Greige 90x90 Caixa 1,63
+R$ 172,90
+https://www.sodimac.com.br/sodimac-br/product/1039253/porcelanato-acetinado-caliza-greige-90x90-caixa-163/1039253/
+Porcelanato Acetinado Khali Greige 90x90 Caixa 1,63
+R$ 176,90
+https://www.sodimac.com.br/sodimac-br/product/1039266/porcelanato-acetinado-khali-greige-90x90-caixa-163/1039266/
+Porcelanato Externo Caliza Frost 90x90 Caixa 1,63
+R$ 172,90
+https://www.sodimac.com.br/sodimac-br/product/1039252/porcelanato-externo-caliza-frost-90x90-caixa-163/1039252/
+Porcelanato Externo Micron Zinco 80x80 Caixa 1,92
+R$ 185,90
+https://www.sodimac.com.br/sodimac-br/product/1039218/porcelanato-externo-micron-zinco-80x80-caixa-192/1039218/
+Porcelanato Polido Silex Preto 90x90 Caixa 1,62
+R$ 364,90
+https://www.sodimac.com.br/sodimac-br/product/1039290/porcelanato-polido-silex-preto-90x90-caixa-162/1039290/
+Porcelanato Acetinado Khali Off White 90x90 Caixa 1,63
+R$ 176,90
+https://www.sodimac.com.br/sodimac-br/product/1039272/porcelanato-acetinado-khali-off-white-90x90-caixa-163/1039272/
+Porcelanato Polido Minimum Concreto 80x80 Caixa 1,92
+R$ 208,90
+https://www.sodimac.com.br/sodimac-br/product/1039229/porcelanato-polido-minimum-concreto-80x80-caixa-192/1039229/
+Porcelanato Externo Brera Terra 90x90 Caixa 1,63
+R$ 171,90
+https://www.sodimac.com.br/sodimac-br/product/1039248/porcelanato-externo-brera-terra-90x90-caixa-163/1039248/
+Porcelanato Acetinado Caliza Cinza 90x90 Caixa 1,63
+R$ 172,90
+https://www.sodimac.com.br/sodimac-br/product/1039249/porcelanato-acetinado-caliza-cinza-90x90-caixa-163/1039249/
+Porcelanato Natural Materia Calcario 90x90 Caixa 1,62
+R$ 284,90
+https://www.sodimac.com.br/sodimac-br/product/1039274/porcelanato-natural-materia-calcario-90x90-caixa-162/1039274/
+Porcelanato Externo Munari Grafiti 59x59 Caixa 1,39
+R$ 131,90
+https://www.sodimac.com.br/sodimac-br/product/1039024/porcelanato-externo-munari-grafiti-59x59-caixa-139/1039024/
+Porcelanato Acetinado Atena Marfim 59x59 Caixa 1,39
+R$ 117,90
+https://www.sodimac.com.br/sodimac-br/product/1038990/porcelanato-acetinado-atena-marfim-59x59-caixa-139/1038990/
+Porcelanato Acetinado Oslo Brick 59x59 Caixa 1,39
+R$ 125,90
+https://www.sodimac.com.br/sodimac-br/product/1039032/porcelanato-acetinado-oslo-brick-59x59-caixa-139/1039032/
+Porcelanato Guache Agave Mate
+R$ 277,90
+https://www.sodimac.com.br/sodimac-br/product/1033352/porcelanato-guache-agave-mate/1033352/
+Porcelanato Arqtec Stop Azul Natural
+R$ 1.162,90
+https://www.sodimac.com.br/sodimac-br/product/1033468/porcelanato-arqtec-stop-azul-natural/1033468/
+Porcelanato Peroba 19,7x120cm Eliane
+R$ 119,90
+https://www.sodimac.com.br/sodimac-br/product/888186/porcelanato-peroba-197x120cm-eliane/888186/
+Porcelanato Khali Greige Mate
+R$ 173,90
+https://www.sodimac.com.br/sodimac-br/product/1033514/porcelanato-khali-greige-mate/1033514/
+Porcelanato Orion Hex Plisse Off-White Metalizado
+R$ 195,90
+https://www.sodimac.com.br/sodimac-br/product/1033417/porcelanato-orion-hex-plisse-off-white-metalizado/1033417/
+Porcelanato Bernini Oro Acetinado 90x90cm Eliane
+R$ 193,90
+https://www.sodimac.com.br/sodimac-br/product/888715/porcelanato-bernini-oro-acetinado-90x90cm-eliane/888715/
+Porcelanato Externo Arena Cinza 60x60 Caixa 1,44
+R$ 102,90
+https://www.sodimac.com.br/sodimac-br/product/1039091/porcelanato-externo-arena-cinza-60x60-caixa-144/1039091/
+Porcelanato Dolmen Cinza Acetinado 90x90cm Caixa 1,63m² Eliane
+R$ 131,90
+https://www.sodimac.com.br/sodimac-br/product/1026610/porcelanato-dolmen-cinza-acetinado-90x90cm-caixa-163m-eliane/1026610/
+Porcelanato Dolmen Cinza Externo 90x90cm Caixa 1,63m² Eliane
+R$ 130,90
+https://www.sodimac.com.br/sodimac-br/product/1026611/porcelanato-dolmen-cinza-externo-90x90cm-caixa-163m-eliane/1026611/
+Porcelanato Asfalto Acetinado 120X240
+R$ 541,90
+https://www.sodimac.com.br/sodimac-br/product/1029569/porcelanato-asfalto-acetinado-120x240/1029569/
+Porcelanato Marmo Grafite Pólido 80X160
+R$ 389,90
+https://www.sodimac.com.br/sodimac-br/product/1029581/porcelanato-marmo-grafite-polido-80x160/1029581/
+Porcelanato Bloc Grafite Pólido 80X160
+R$ 559,90
+https://www.sodimac.com.br/sodimac-br/product/1029578/porcelanato-bloc-grafite-polido-80x160/1029578/
+Porcelanato Apuan Acetinado 120X240
+R$ 641,90
+https://www.sodimac.com.br/sodimac-br/product/1029568/porcelanato-apuan-acetinado-120x240/1029568/
+Porcelanato Bloc Dark Pólido 80X160
+R$ 709,90
+https://www.sodimac.com.br/sodimac-br/product/1029577/porcelanato-bloc-dark-polido-80x160/1029577/
+Porcelanato Onix Grafite Pólido 120X240
+R$ 549,90
+https://www.sodimac.com.br/sodimac-br/product/1029575/porcelanato-onix-grafite-polido-120x240/1029575/
+Porcelanato Bianco Oro Pólido 120X240
+R$ 549,90
+https://www.sodimac.com.br/sodimac-br/product/1029570/porcelanato-bianco-oro-polido-120x240/1029570/
+Porcelanato Bloc Oliva Pólido 80X160
+R$ 715,90
+https://www.sodimac.com.br/sodimac-br/product/1029580/porcelanato-bloc-oliva-polido-80x160/1029580/
+Porcelanato Antracite Acetinado 120X240
+R$ 541,90
+https://www.sodimac.com.br/sodimac-br/product/1029567/porcelanato-antracite-acetinado-120x240/1029567/
+Porcelanato Bloc Light Pólido 80X160
+R$ 765,90
+https://www.sodimac.com.br/sodimac-br/product/1029579/porcelanato-bloc-light-polido-80x160/1029579/
+Porcelanato Marmo Gris Pólido 120X240
+R$ 494,90
+https://www.sodimac.com.br/sodimac-br/product/1029573/porcelanato-marmo-gris-polido-120x240/1029573/
+Porcelanato Nuvola Off White Pólido 120X240
+R$ 641,90
+https://www.sodimac.com.br/sodimac-br/product/1029574/porcelanato-nuvola-off-white-polido-120x240/1029574/
+Porcelanato Solid Grey Acetinado 80X160
+R$ 345,90
+https://www.sodimac.com.br/sodimac-br/product/1029583/porcelanato-solid-grey-acetinado-80x160/1029583/
+Porcelanato Nero Marquina Pólido 80X160
+R$ 389,90
+https://www.sodimac.com.br/sodimac-br/product/1029582/porcelanato-nero-marquina-polido-80x160/1029582/
+Porcelanato Marmo Brown Pólido 120X240
+R$ 549,90
+https://www.sodimac.com.br/sodimac-br/product/1029572/porcelanato-marmo-brown-polido-120x240/1029572/
+Porcelanato Marmo Branco Pólido 120X240
+R$ 494,90
+https://www.sodimac.com.br/sodimac-br/product/1029571/porcelanato-marmo-branco-polido-120x240/1029571/
+Porcelanato Pedra Bahia Gelo Externo 59X59
+R$ 126,90
+https://www.sodimac.com.br/sodimac-br/product/1032702/porcelanato-pedra-bahia-gelo-externo-59x59/1032702/
+Porcelanato Gobi Greige Externo 59X59
+R$ 126,90
+https://www.sodimac.com.br/sodimac-br/product/1032697/porcelanato-gobi-greige-externo-59x59/1032697/
 Revestimento Argos Branco Metalizado 30X90
 R$ 177,90
 https://www.sodimac.com.br/sodimac-br/product/1033988/revestimento-argos-branco-metalizado-30x90/1033988/
@@ -1372,93 +1378,90 @@ https://www.sodimac.com.br/sodimac-br/product/1032707/porcelanato-munari-cimento
 Porcelanato Sequoia Mel Externo 19X90
 R$ 146,90
 https://www.sodimac.com.br/sodimac-br/product/1032671/porcelanato-sequoia-mel-externo-19x90/1032671/
-Porcelanato Khali Greice Acetinado 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032663/porcelanato-khali-greice-acetinado-19x90/1032663/
-Porcelanato Safari Fume Mate 19X90
-R$ 134,90
-https://www.sodimac.com.br/sodimac-br/product/1032670/porcelanato-safari-fume-mate-19x90/1032670/
 Porcelanato Artico Alpe Acetinado 60X120
 R$ 161,90
 https://www.sodimac.com.br/sodimac-br/product/1032703/porcelanato-artico-alpe-acetinado-60x120/1032703/
-Porcelanato Khali Off White Acetinado 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032668/porcelanato-khali-off-white-acetinado-19x90/1032668/
-Porcelanato Khali Off White Externo 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032669/porcelanato-khali-off-white-externo-19x90/1032669/
-Porcelanato Khali Greige Externo 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032664/porcelanato-khali-greige-externo-19x90/1032664/
-Porcelanato Gobi Shell Externo 60X60
-R$ 113,90
-https://www.sodimac.com.br/sodimac-br/product/1032713/porcelanato-gobi-shell-externo-60x60/1032713/
-Porcelanato Khali Marfim Acetinado 19X90
-R$ 143,90
-https://www.sodimac.com.br/sodimac-br/product/1032666/porcelanato-khali-marfim-acetinado-19x90/1032666/
-Porcelanato Polido Materia Calcario 60x120 Caixa 1,44
-R$ 290,90
-https://www.sodimac.com.br/sodimac-br/product/1039059/porcelanato-polido-materia-calcario-60x120-caixa-144/1039059/
-Porcelanato Dolmen Grafite 90x90cm Eliane
-R$ 159,90
-https://www.sodimac.com.br/sodimac-br/product/888061/porcelanato-dolmen-grafite-90x90cm-eliane/888061/
-Porcelanato Acetinado Caliza Off White 60x60 Caixa 1,44
-R$ 104,90
-https://www.sodimac.com.br/sodimac-br/product/1039105/porcelanato-acetinado-caliza-off-white-60x60-caixa-144/1039105/
-Porcelanato Externo Khali Greige 60x60 Caixa 1,44
-R$ 105,90
-https://www.sodimac.com.br/sodimac-br/product/1039113/porcelanato-externo-khali-greige-60x60-caixa-144/1039113/
-Porcelanato Externo Manila Cinza 60x60 Caixa 1,44
-R$ 105,90
-https://www.sodimac.com.br/sodimac-br/product/1039121/porcelanato-externo-manila-cinza-60x60-caixa-144/1039121/
-Porcelanato Acetinado Oslo Brick 60x60 Caixa 1,44
-R$ 97,90
-https://www.sodimac.com.br/sodimac-br/product/1039180/porcelanato-acetinado-oslo-brick-60x60-caixa-144/1039180/
-Porcelanato Place Polido 60x120cm Eliane
-R$ 145,90
-https://www.sodimac.com.br/sodimac-br/product/889118/porcelanato-place-polido-60x120cm-eliane/889118/
-Porcelanato Polido Fossile 59x59 Caixa 1,39
-R$ 175,90
-https://www.sodimac.com.br/sodimac-br/product/1039008/porcelanato-polido-fossile-59x59-caixa-139/1039008/
-Porcelanato Externo Munari Grafiti 59x59 Caixa 1,39
-R$ 131,90
-https://www.sodimac.com.br/sodimac-br/product/1039024/porcelanato-externo-munari-grafiti-59x59-caixa-139/1039024/
-Porcelanato Acetinado Atena Marfim 59x59 Caixa 1,39
+Porcelanato Externo Khali Off White 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039016/porcelanato-externo-khali-off-white-59x59-caixa-139/1039016/
+Porcelanato Acetinado Artico Alpe 60x120 Caixa 1,44
+R$ 148,90
+https://www.sodimac.com.br/sodimac-br/product/1039037/porcelanato-acetinado-artico-alpe-60x120-caixa-144/1039037/
+Porcelanato Acetinado Khali Greige 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039009/porcelanato-acetinado-khali-greige-59x59-caixa-139/1039009/
+Porcelanato Acetinado Manila Marfim 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039019/porcelanato-acetinado-manila-marfim-59x59-caixa-139/1039019/
+Porcelanato Acetinado Dolmen Bege 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1039003/porcelanato-acetinado-dolmen-bege-59x59-caixa-139/1039003/
+Porcelanato Externo Atena Marfim 59x59 Caixa 1,39
 R$ 117,90
-https://www.sodimac.com.br/sodimac-br/product/1038990/porcelanato-acetinado-atena-marfim-59x59-caixa-139/1038990/
-Porcelanato Acetinado Oslo Brick 59x59 Caixa 1,39
+https://www.sodimac.com.br/sodimac-br/product/1038991/porcelanato-externo-atena-marfim-59x59-caixa-139/1038991/
+Porcelanato Externo Brera Cimento 59x59 Caixa 1,39
+R$ 121,90
+https://www.sodimac.com.br/sodimac-br/product/1038994/porcelanato-externo-brera-cimento-59x59-caixa-139/1038994/
+Porcelanato Externo Munari Marfim 59x59 Caixa 1,39
+R$ 116,90
+https://www.sodimac.com.br/sodimac-br/product/1039025/porcelanato-externo-munari-marfim-59x59-caixa-139/1039025/
+Porcelanato Externo Khali Greige 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039010/porcelanato-externo-khali-greige-59x59-caixa-139/1039010/
+Porcelanato Polido Atena Marfim 60x120 Caixa 1,44
+R$ 219,90
+https://www.sodimac.com.br/sodimac-br/product/1039038/porcelanato-polido-atena-marfim-60x120-caixa-144/1039038/
+Porcelanato Acetinado Placetinadoe 59x59 Caixa 1,39
+R$ 116,90
+https://www.sodimac.com.br/sodimac-br/product/1039033/porcelanato-acetinado-placetinadoe-59x59-caixa-139/1039033/
+Porcelanato Polido Onix Cristal 59x59 Caixa 1,39
+R$ 172,90
+https://www.sodimac.com.br/sodimac-br/product/1039027/porcelanato-polido-onix-cristal-59x59-caixa-139/1039027/
+Porcelanato Acetinado Caliza Cinza 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1038995/porcelanato-acetinado-caliza-cinza-59x59-caixa-139/1038995/
+Porcelanato Acetinado Caliza Off White 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1039001/porcelanato-acetinado-caliza-off-white-59x59-caixa-139/1039001/
+Porcelanato Externo Arizona Gray 59x59 Caixa 1,39
 R$ 125,90
-https://www.sodimac.com.br/sodimac-br/product/1039032/porcelanato-acetinado-oslo-brick-59x59-caixa-139/1039032/
-Porcelanato Guache Agave Mate
-R$ 277,90
-https://www.sodimac.com.br/sodimac-br/product/1033352/porcelanato-guache-agave-mate/1033352/
-Porcelanato Arqtec Stop Azul Natural
-R$ 1.162,90
-https://www.sodimac.com.br/sodimac-br/product/1033468/porcelanato-arqtec-stop-azul-natural/1033468/
-Porcelanato Peroba 19,7x120cm Eliane
+https://www.sodimac.com.br/sodimac-br/product/1038989/porcelanato-externo-arizona-gray-59x59-caixa-139/1038989/
+Porcelanato Acetinado Khali Off White 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039015/porcelanato-acetinado-khali-off-white-59x59-caixa-139/1039015/
+Porcelanato Externo Arena Cinza 59x59 Caixa 1,39
+R$ 135,90
+https://www.sodimac.com.br/sodimac-br/product/1038987/porcelanato-externo-arena-cinza-59x59-caixa-139/1038987/
+Porcelanato Externo Khali Marfim 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039014/porcelanato-externo-khali-marfim-59x59-caixa-139/1039014/
+Porcelanato Acetinado Caliza Greige 59x59 Caixa 1,39
+R$ 123,90
+https://www.sodimac.com.br/sodimac-br/product/1038999/porcelanato-acetinado-caliza-greige-59x59-caixa-139/1038999/
+Porcelanato Acetinado Manila Cinza 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039017/porcelanato-acetinado-manila-cinza-59x59-caixa-139/1039017/
+Porcelanato Externo Munari Concreto 59x59 Caixa 1,39
+R$ 128,90
+https://www.sodimac.com.br/sodimac-br/product/1039022/porcelanato-externo-munari-concreto-59x59-caixa-139/1039022/
+Porcelanato Acetinado Caliza Cinza 60x120 Caixa 1,44
+R$ 168,90
+https://www.sodimac.com.br/sodimac-br/product/1039039/porcelanato-acetinado-caliza-cinza-60x120-caixa-144/1039039/
+Porcelanato Acetinado Khali Gris 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039011/porcelanato-acetinado-khali-gris-59x59-caixa-139/1039011/
+Porcelanato Externo Manila Marfim 59x59 Caixa 1,39
+R$ 133,90
+https://www.sodimac.com.br/sodimac-br/product/1039020/porcelanato-externo-manila-marfim-59x59-caixa-139/1039020/
+Porcelanato Acetinado Oslo Argila 59x59 Caixa 1,39
+R$ 124,90
+https://www.sodimac.com.br/sodimac-br/product/1039031/porcelanato-acetinado-oslo-argila-59x59-caixa-139/1039031/
+Porcelanato Esmaltado Munari Cimento Externo 90x90cm Caixa 1,63m² Retificado Cinza
 R$ 119,90
-https://www.sodimac.com.br/sodimac-br/product/888186/porcelanato-peroba-197x120cm-eliane/888186/
-Porcelanato Khali Greige Mate
-R$ 173,90
-https://www.sodimac.com.br/sodimac-br/product/1033514/porcelanato-khali-greige-mate/1033514/
-Porcelanato Capri Glacial Mate
-R$ 111,90
-https://www.sodimac.com.br/sodimac-br/product/1033441/porcelanato-capri-glacial-mate/1033441/
-Porcelanato Orion Hex Plisse Off-White Metalizado
-R$ 195,90
-https://www.sodimac.com.br/sodimac-br/product/1033417/porcelanato-orion-hex-plisse-off-white-metalizado/1033417/
-Porcelanato Munari Branco Pólido
-R$ 328,90
-https://www.sodimac.com.br/sodimac-br/product/1033376/porcelanato-munari-branco-polido/1033376/
-Porcelanato Marmo Branco Polido 80x160cm Eliane
-R$ 259,90
-https://www.sodimac.com.br/sodimac-br/product/888211/porcelanato-marmo-branco-polido-80x160cm-eliane/888211/
-Porcelanato Marmo Gris Polido 80x160cm Eliane
-R$ 389,90
-https://www.sodimac.com.br/sodimac-br/product/888210/porcelanato-marmo-gris-polido-80x160cm-eliane/888210/
-Porcelanato Blend Plus Grey Acetinado
-R$ 99,90
-https://www.sodimac.com.br/sodimac-br/product/1032190/porcelanato-blend-plus-grey-acetinado/1032190/
+https://www.sodimac.com.br/sodimac-br/product/762114/porcelanato-esmaltado-munari-cimento-externo-90x90cm-caixa-163m-retificado-cinza/762114/
+Porcelanato Esmaltado Evora Deck Canela RE 60x60cm Marrom
+R$ 89,90
+https://www.sodimac.com.br/sodimac-br/product/479781/porcelanato-esmaltado-evora-deck-canela-re-60x60cm-marrom/479781/
 Porcelanato Esmaltado Munari Acetinado 120x120cm Retificado Caixa com 1,44m² Cimento
 R$ 214,90
 https://www.sodimac.com.br/sodimac-br/product/865183/porcelanato-esmaltado-munari-acetinado-120x120cm-retificado-caixa-com-144m-cimento/865183/
@@ -1483,6 +1486,9 @@ https://www.sodimac.com.br/sodimac-br/product/884200/porcelanato-state-cement-na
 Porcelanato Bianco Plus 80X80cm
 R$ 134,90
 https://www.sodimac.com.br/sodimac-br/product/889123/porcelanato-bianco-plus-80x80cm/889123/
+Porcelanato Marmo Branco Polido 80x160cm Eliane
+R$ 259,90
+https://www.sodimac.com.br/sodimac-br/product/888211/porcelanato-marmo-branco-polido-80x160cm-eliane/888211/
 Porcelanato Munari Cimento Externo 120X120 Cx1,44 Eliane
 R$ 225,90
 https://www.sodimac.com.br/sodimac-br/product/868854/porcelanato-munari-cimento-externo-120x120-cx144-eliane/868854/
@@ -1501,9 +1507,3 @@ https://www.sodimac.com.br/sodimac-br/product/877925/dolmen-bege-acetinado-90x90
 Porcelanato Polido Munari 90x90cm Caixa 1,63m² Marfim
 R$ 139,90
 https://www.sodimac.com.br/sodimac-br/product/785196/porcelanato-polido-munari-90x90cm-caixa-163m-marfim/785196/
-Porcelanato Bernini Oro Acetinado 60X120
-R$ 181,90
-https://www.sodimac.com.br/sodimac-br/product/1032704/porcelanato-bernini-oro-acetinado-60x120/1032704/
-Porcelanato Pedra Bahia Gelo Externo 60X60
-R$ 69,90
-https://www.sodimac.com.br/sodimac-br/product/1032714/porcelanato-pedra-bahia-gelo-externo-60x60/1032714/
