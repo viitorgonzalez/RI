@@ -29,7 +29,7 @@ cd seu-repositorio
 Execute o script de web scraping:
 
 ```bash
-python web_scraping.py
+python main.py
 ```
 
 O script irá extrair informações de uma página da web de exemplo e imprimir os resultados no console. Certifique-se de personalizar o script para atender às suas necessidades, modificando as URLs, seletores CSS e a lógica de extração de dados de acordo com o site que você deseja scrapar.
