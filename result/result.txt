@@ -1,0 +1,16 @@
+nome                                   CeC    Leroy  SodimacMenor Precolink
+Telha de Fibrocimento 4mm 122X 50cm     0.0     9.89    0.0     9.89        https://www.leroymerlin.com.br/telha-fibrocimento-ondulada-1,22mx0,50mx4mm-confibra_89793900
+Telha de Fibrocimento 4mm 213X 50cm     0.0     27.9    0.0     27.9        https://www.leroymerlin.com.br/telha-fibrocimento-2,13mx50cmx4mm-fibrotex-brasilit_89492046
+Telha de Fibrocimento 4mm 244X 50cm     33.79   19.99   20.99   19.99       https://www.leroymerlin.com.br/telha-fibrocimento-ondulada-2,44mx0,50mx4mm-confibra_89793914
+Telha de Fibrocimento 5mm 122X110cm     27.99   34.9    0.0     27.99       https://www.cec.com.br/produto/telha-ondulada-em-fibrocimento-5mm-122x110cm-cinza?produto=1391407
+Telha de Fibrocimento 5mm 153X110cm     34.99   37.9    41.9    34.99       https://www.cec.com.br/produto/telha-ondulada-em-fibrocimento-5mm-153x110cm-cinza?produto=1391443
+Telha de Fibrocimento 5mm 183X110cm     56.99   41.9    42.9    41.9        https://www.leroymerlin.com.br/telha-fibrocimento-ondulada-1,83mx1,10mx5mm-confibra_89793942
+Telha de Fibrocimento 5mm 213X110cm     40.99   47.9    49.9    40.99       https://www.cec.com.br/produto/telha-ondulada-em-fibrocimento-5mm-213x92cm-cinza?produto=1391409
+Telha de Fibrocimento 5mm 244X110cm     52.99   46.9    46.9    46.9        https://www.leroymerlin.com.br/telha-fibrocimento-hidrofugada-2,44mx92cmx5mm-infibra_89633145
+Telha de Fibrocimento 6mm 122X110cm     33.99   39.9    41.9    33.99       https://www.cec.com.br/produto/telha-ondulada-em-fibrocimento-6mm-122x110cm-cinza?produto=1391490
+Telha de Fibrocimento 6mm 153X110cm     41.99   43.9    44.9    41.99       https://www.cec.com.br/produto/telha-ondulada-em-fibrocimento-6mm-153x110cm-cinza?produto=1391405
+Telha de Fibrocimento 6mm 183X110cm     49.99   49.9    51.9    49.9        https://www.leroymerlin.com.br/telha-fibrocimento-ondulada-1,83mx1,10mx6mm-confibra_89796224
+Telha de Fibrocimento 6mm 213X110cm     57.99   57.9    61.9    57.9        https://www.leroymerlin.com.br/telha-fibrocimento-2,13mx1,10mx6mm-ondulada-confibra_89801712
+Telha de Fibrocimento 6mm 244X110cm     76.99   59.9    59.9    59.9        https://www.leroymerlin.com.br/telha-fibrocimento-ondulada-244x110x6mm-cinza-casalit_92006796
+Telha de Fibrocimento 6mm 305X110cm     82.99   88.9    89.9    82.99       https://www.cec.com.br/produto/telha-ondulada-em-fibrocimento-6mm-305x110cm-cinza?produto=1391495
+Telha de Fibrocimento 6mm 366X110cm     119.99  99.9    104.9   99.9        https://www.leroymerlin.com.br/telha-fibrocimento-3,66mx1,10mx6mm-ondulada-confibra_89801740
